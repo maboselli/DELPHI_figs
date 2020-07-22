@@ -1,0 +1,15 @@
+#
+echo 'Rodou o DELPHI'
+#
+export SSH_AGENT_PID=`ps -a | grep ssh-agent | grep -o -e [0-9][0-9][0-9][0-9]`
+export SSH_AUTH_SOCK=`find /tmp/ -path '*keyring-*' -name '*ssh*' -print 2>/dev/null` 
+data=$(date +"%m-%d-%Y %T")
+echo "DELPHI Update ${data}"
+#git remote add origin ssh://git@github.com:maboselli/DELPHI_figs.git
+#git remote set-url origin https://git@github.com:maboselli/DELPHI_figs.git
+#git remote add origin git@github.com:maboselli/DELPHI_figs.git
+git add .
+git commit -m "update ${data}"
+git push -f origin master
+
+
