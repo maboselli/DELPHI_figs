@@ -240,3 +240,25 @@ Bad fitting for Natal RN:  36.50
 Tempo de execussão: 0:20:15.078857
 Rodou o DELPHI
 DELPHI Update 07-28-2020 17:31:20
+[master ba72618] update 07-28-2020 17:31:20
+ 23 files changed, 4506 insertions(+), 5 deletions(-)
+ delete mode 100644 .shDELPHI.log.kate-swp
+ create mode 100644 Fig_Brasil_AC_Estado.png
+ create mode 100644 "Fig_Brasil_AL_Macei\303\263.png"
+ create mode 100644 Fig_Brasil_AM_Estado.png
+ create mode 100644 Fig_Brasil_AP_Estado.png
+ create mode 100644 Fig_Brasil_BA_Salvador.png
+ create mode 100644 Fig_Brasil_CE_Estado.png
+ create mode 100644 Fig_Brasil_CE_Fortaleza.png
+ create mode 100644 "Fig_Brasil_MA_S\303\243o_Lu\303\255s.png"
+ create mode 100644 Fig_Brasil_PA_Estado.png
+ create mode 100644 "Fig_Brasil_PB_Jo\303\243o_Pessoa.png"
+ create mode 100644 Fig_Brasil_PE_Recife.png
+ create mode 100644 Fig_Brasil_PI_Teresina.png
+ create mode 100644 Fig_Brasil_RJ_Estado.png
+ rewrite Fig_Brasil_RO_Estado.png (98%)
+ create mode 100644 Fig_Brasil_SE_Aracaju.png
+ create mode 100644 Fig_Brasil_TO_Estado.png
+ create mode 100644 Geral_Br_prediction.csv
+ create mode 100644 Geral_Br_real_data.csv
+ create mode 100644 Parameters_Global.csv
