@@ -1,0 +1,2217 @@
+Country,Province,City,Day,casos,obitos
+Brasil,RO,Estado,2020-02-25,0.0,0.0
+Brasil,RO,Estado,2020-02-26,0.0,0.0
+Brasil,RO,Estado,2020-02-27,0.0,0.0
+Brasil,RO,Estado,2020-02-28,0.0,0.0
+Brasil,RO,Estado,2020-02-29,0.0,0.0
+Brasil,RO,Estado,2020-03-01,0.0,0.0
+Brasil,RO,Estado,2020-03-02,0.0,0.0
+Brasil,RO,Estado,2020-03-03,0.0,0.0
+Brasil,RO,Estado,2020-03-04,0.0,0.0
+Brasil,RO,Estado,2020-03-05,0.0,0.0
+Brasil,RO,Estado,2020-03-06,0.0,0.0
+Brasil,RO,Estado,2020-03-07,0.0,0.0
+Brasil,RO,Estado,2020-03-08,0.0,0.0
+Brasil,RO,Estado,2020-03-09,0.0,0.0
+Brasil,RO,Estado,2020-03-10,0.0,0.0
+Brasil,RO,Estado,2020-03-11,0.0,0.0
+Brasil,RO,Estado,2020-03-12,0.0,0.0
+Brasil,RO,Estado,2020-03-13,0.0,0.0
+Brasil,RO,Estado,2020-03-14,0.0,0.0
+Brasil,RO,Estado,2020-03-15,0.0,0.0
+Brasil,RO,Estado,2020-03-16,0.0,0.0
+Brasil,RO,Estado,2020-03-17,0.0,0.0
+Brasil,RO,Estado,2020-03-18,0.0,0.0
+Brasil,RO,Estado,2020-03-19,0.0,0.0
+Brasil,RO,Estado,2020-03-20,1.0,0.0
+Brasil,RO,Estado,2020-03-21,1.0,0.0
+Brasil,RO,Estado,2020-03-22,3.0,0.0
+Brasil,RO,Estado,2020-03-23,3.0,0.0
+Brasil,RO,Estado,2020-03-24,3.0,0.0
+Brasil,RO,Estado,2020-03-25,5.0,0.0
+Brasil,RO,Estado,2020-03-26,5.0,0.0
+Brasil,RO,Estado,2020-03-27,6.0,0.0
+Brasil,RO,Estado,2020-03-28,6.0,0.0
+Brasil,RO,Estado,2020-03-29,6.0,0.0
+Brasil,RO,Estado,2020-03-30,6.0,0.0
+Brasil,RO,Estado,2020-03-31,8.0,1.0
+Brasil,RO,Estado,2020-04-01,9.0,1.0
+Brasil,RO,Estado,2020-04-02,10.0,1.0
+Brasil,RO,Estado,2020-04-03,10.0,1.0
+Brasil,RO,Estado,2020-04-04,11.0,1.0
+Brasil,RO,Estado,2020-04-05,12.0,1.0
+Brasil,RO,Estado,2020-04-06,14.0,1.0
+Brasil,RO,Estado,2020-04-07,18.0,1.0
+Brasil,RO,Estado,2020-04-08,18.0,1.0
+Brasil,RO,Estado,2020-04-09,28.0,2.0
+Brasil,RO,Estado,2020-04-10,32.0,2.0
+Brasil,RO,Estado,2020-04-11,33.0,2.0
+Brasil,RO,Estado,2020-04-12,35.0,2.0
+Brasil,RO,Estado,2020-04-13,42.0,2.0
+Brasil,RO,Estado,2020-04-14,64.0,2.0
+Brasil,RO,Estado,2020-04-15,69.0,2.0
+Brasil,RO,Estado,2020-04-16,76.0,3.0
+Brasil,RO,Estado,2020-04-17,92.0,3.0
+Brasil,RO,Estado,2020-04-18,110.0,3.0
+Brasil,RO,Estado,2020-04-19,128.0,4.0
+Brasil,RO,Estado,2020-04-20,160.0,4.0
+Brasil,RO,Estado,2020-04-21,199.0,4.0
+Brasil,RO,Estado,2020-04-22,223.0,5.0
+Brasil,RO,Estado,2020-04-23,250.0,5.0
+Brasil,RO,Estado,2020-04-24,290.0,5.0
+Brasil,RO,Estado,2020-04-25,328.0,7.0
+Brasil,RO,Estado,2020-04-26,364.0,10.0
+Brasil,RO,Estado,2020-04-27,393.0,10.0
+Brasil,RO,Estado,2020-04-28,413.0,11.0
+Brasil,RO,Estado,2020-04-29,433.0,15.0
+Brasil,RO,Estado,2020-04-30,502.0,16.0
+Brasil,RO,Estado,2020-05-01,585.0,18.0
+Brasil,RO,Estado,2020-05-02,653.0,23.0
+Brasil,RO,Estado,2020-05-03,705.0,24.0
+Brasil,RO,Estado,2020-05-04,756.0,25.0
+Brasil,RO,Estado,2020-05-05,861.0,29.0
+Brasil,RO,Estado,2020-05-06,943.0,33.0
+Brasil,RO,Estado,2020-05-07,1098.0,37.0
+Brasil,RO,Estado,2020-05-08,1222.0,39.0
+Brasil,RO,Estado,2020-05-09,1263.0,41.0
+Brasil,RO,Estado,2020-05-10,1302.0,43.0
+Brasil,RO,Estado,2020-05-11,1396.0,47.0
+Brasil,RO,Estado,2020-05-12,1460.0,50.0
+Brasil,RO,Estado,2020-05-13,1612.0,50.0
+Brasil,RO,Estado,2020-05-14,1686.0,56.0
+Brasil,RO,Estado,2020-05-15,1789.0,62.0
+Brasil,RO,Estado,2020-05-16,1919.0,69.0
+Brasil,RO,Estado,2020-05-17,1963.0,74.0
+Brasil,RO,Estado,2020-05-18,2043.0,77.0
+Brasil,RO,Estado,2020-05-19,2257.0,87.0
+Brasil,RO,Estado,2020-05-20,2499.0,90.0
+Brasil,RO,Estado,2020-05-21,2659.0,101.0
+Brasil,RO,Estado,2020-05-22,2774.0,106.0
+Brasil,RO,Estado,2020-05-23,3109.0,115.0
+Brasil,RO,Estado,2020-05-24,3201.0,121.0
+Brasil,RO,Estado,2020-05-25,3268.0,121.0
+Brasil,RO,Estado,2020-05-26,3493.0,133.0
+Brasil,RO,Estado,2020-05-27,3862.0,137.0
+Brasil,RO,Estado,2020-05-28,4252.0,142.0
+Brasil,RO,Estado,2020-05-29,4502.0,145.0
+Brasil,RO,Estado,2020-05-30,4743.0,151.0
+Brasil,RO,Estado,2020-05-31,4942.0,156.0
+Brasil,RO,Estado,2020-06-01,5172.0,159.0
+Brasil,RO,Estado,2020-06-02,5477.0,172.0
+Brasil,RO,Estado,2020-06-03,5713.0,180.0
+Brasil,RO,Estado,2020-06-04,6459.0,194.0
+Brasil,RO,Estado,2020-06-05,6862.0,213.0
+Brasil,RO,Estado,2020-06-06,7700.0,228.0
+Brasil,RO,Estado,2020-06-07,8110.0,235.0
+Brasil,RO,Estado,2020-06-08,8626.0,245.0
+Brasil,RO,Estado,2020-06-09,9220.0,255.0
+Brasil,RO,Estado,2020-06-10,9850.0,267.0
+Brasil,RO,Estado,2020-06-11,10547.0,293.0
+Brasil,RO,Estado,2020-06-12,11224.0,296.0
+Brasil,RO,Estado,2020-06-13,11710.0,309.0
+Brasil,RO,Estado,2020-06-14,11865.0,324.0
+Brasil,RO,Estado,2020-06-15,12180.0,332.0
+Brasil,RO,Estado,2020-06-16,13010.0,346.0
+Brasil,RO,Estado,2020-06-17,13567.0,360.0
+Brasil,RO,Estado,2020-06-18,13804.0,374.0
+Brasil,RO,Estado,2020-06-19,14353.0,391.0
+Brasil,RO,Estado,2020-06-20,14952.0,409.0
+Brasil,RO,Estado,2020-06-21,15181.0,417.0
+Brasil,RO,Estado,2020-06-22,15827.0,431.0
+Brasil,RO,Estado,2020-06-23,16498.0,444.0
+Brasil,RO,Estado,2020-06-24,17424.0,455.0
+Brasil,RO,Estado,2020-06-25,18173.0,467.0
+Brasil,RO,Estado,2020-06-26,19271.0,476.0
+Brasil,RO,Estado,2020-06-27,19271.0,476.0
+Brasil,RO,Estado,2020-06-28,19820.0,486.0
+Brasil,RO,Estado,2020-06-29,20406.0,500.0
+Brasil,RO,Estado,2020-06-30,21251.0,518.0
+Brasil,RO,Estado,2020-07-01,21462.0,520.0
+Brasil,RO,Estado,2020-07-02,21970.0,530.0
+Brasil,RO,Estado,2020-07-03,22241.0,533.0
+Brasil,RO,Estado,2020-07-04,22957.0,548.0
+Brasil,RO,Estado,2020-07-05,23479.0,555.0
+Brasil,RO,Estado,2020-07-06,23921.0,558.0
+Brasil,RO,Estado,2020-07-07,24564.0,577.0
+Brasil,RO,Estado,2020-07-08,25067.0,585.0
+Brasil,RO,Estado,2020-07-09,25402.0,589.0
+Brasil,RO,Estado,2020-07-10,26000.0,605.0
+Brasil,RO,Estado,2020-07-11,26496.0,617.0
+Brasil,RO,Estado,2020-07-12,26728.0,628.0
+Brasil,RO,Estado,2020-07-13,27050.0,647.0
+Brasil,RO,Estado,2020-07-14,27528.0,663.0
+Brasil,RO,Estado,2020-07-15,27917.0,668.0
+Brasil,RO,Estado,2020-07-16,28654.0,677.0
+Brasil,RO,Estado,2020-07-17,29117.0,686.0
+Brasil,RO,Estado,2020-07-18,29117.0,686.0
+Brasil,RO,Estado,2020-07-19,29117.0,686.0
+Brasil,RO,Estado,2020-07-20,29801.0,710.0
+Brasil,RO,Estado,2020-07-21,30642.0,727.0
+Brasil,RO,Estado,2020-07-22,32935.0,758.0
+Brasil,RO,Estado,2020-07-23,34080.0,784.0
+Brasil,RO,Estado,2020-07-24,34873.0,801.0
+Brasil,RO,Estado,2020-07-25,35573.0,810.0
+Brasil,RO,Estado,2020-07-26,35810.0,814.0
+Brasil,RO,Estado,2020-07-27,36148.0,830.0
+Brasil,AC,Estado,2020-02-25,0.0,0.0
+Brasil,AC,Estado,2020-02-26,0.0,0.0
+Brasil,AC,Estado,2020-02-27,0.0,0.0
+Brasil,AC,Estado,2020-02-28,0.0,0.0
+Brasil,AC,Estado,2020-02-29,0.0,0.0
+Brasil,AC,Estado,2020-03-01,0.0,0.0
+Brasil,AC,Estado,2020-03-02,0.0,0.0
+Brasil,AC,Estado,2020-03-03,0.0,0.0
+Brasil,AC,Estado,2020-03-04,0.0,0.0
+Brasil,AC,Estado,2020-03-05,0.0,0.0
+Brasil,AC,Estado,2020-03-06,0.0,0.0
+Brasil,AC,Estado,2020-03-07,0.0,0.0
+Brasil,AC,Estado,2020-03-08,0.0,0.0
+Brasil,AC,Estado,2020-03-09,0.0,0.0
+Brasil,AC,Estado,2020-03-10,0.0,0.0
+Brasil,AC,Estado,2020-03-11,0.0,0.0
+Brasil,AC,Estado,2020-03-12,0.0,0.0
+Brasil,AC,Estado,2020-03-13,0.0,0.0
+Brasil,AC,Estado,2020-03-14,0.0,0.0
+Brasil,AC,Estado,2020-03-15,0.0,0.0
+Brasil,AC,Estado,2020-03-16,0.0,0.0
+Brasil,AC,Estado,2020-03-17,0.0,0.0
+Brasil,AC,Estado,2020-03-18,0.0,0.0
+Brasil,AC,Estado,2020-03-19,3.0,0.0
+Brasil,AC,Estado,2020-03-20,7.0,0.0
+Brasil,AC,Estado,2020-03-21,9.0,0.0
+Brasil,AC,Estado,2020-03-22,11.0,0.0
+Brasil,AC,Estado,2020-03-23,11.0,0.0
+Brasil,AC,Estado,2020-03-24,17.0,0.0
+Brasil,AC,Estado,2020-03-25,23.0,0.0
+Brasil,AC,Estado,2020-03-26,24.0,0.0
+Brasil,AC,Estado,2020-03-27,25.0,0.0
+Brasil,AC,Estado,2020-03-28,25.0,0.0
+Brasil,AC,Estado,2020-03-29,34.0,0.0
+Brasil,AC,Estado,2020-03-30,42.0,0.0
+Brasil,AC,Estado,2020-03-31,42.0,0.0
+Brasil,AC,Estado,2020-04-01,43.0,0.0
+Brasil,AC,Estado,2020-04-02,43.0,0.0
+Brasil,AC,Estado,2020-04-03,46.0,0.0
+Brasil,AC,Estado,2020-04-04,46.0,0.0
+Brasil,AC,Estado,2020-04-05,48.0,0.0
+Brasil,AC,Estado,2020-04-06,50.0,0.0
+Brasil,AC,Estado,2020-04-07,50.0,1.0
+Brasil,AC,Estado,2020-04-08,54.0,2.0
+Brasil,AC,Estado,2020-04-09,62.0,2.0
+Brasil,AC,Estado,2020-04-10,70.0,2.0
+Brasil,AC,Estado,2020-04-11,72.0,2.0
+Brasil,AC,Estado,2020-04-12,77.0,2.0
+Brasil,AC,Estado,2020-04-13,90.0,3.0
+Brasil,AC,Estado,2020-04-14,99.0,3.0
+Brasil,AC,Estado,2020-04-15,101.0,3.0
+Brasil,AC,Estado,2020-04-16,110.0,5.0
+Brasil,AC,Estado,2020-04-17,135.0,5.0
+Brasil,AC,Estado,2020-04-18,142.0,5.0
+Brasil,AC,Estado,2020-04-19,163.0,6.0
+Brasil,AC,Estado,2020-04-20,176.0,8.0
+Brasil,AC,Estado,2020-04-21,195.0,8.0
+Brasil,AC,Estado,2020-04-22,214.0,8.0
+Brasil,AC,Estado,2020-04-23,227.0,10.0
+Brasil,AC,Estado,2020-04-24,234.0,11.0
+Brasil,AC,Estado,2020-04-25,258.0,11.0
+Brasil,AC,Estado,2020-04-26,279.0,11.0
+Brasil,AC,Estado,2020-04-27,279.0,14.0
+Brasil,AC,Estado,2020-04-28,311.0,16.0
+Brasil,AC,Estado,2020-04-29,354.0,17.0
+Brasil,AC,Estado,2020-04-30,404.0,19.0
+Brasil,AC,Estado,2020-05-01,486.0,19.0
+Brasil,AC,Estado,2020-05-02,553.0,21.0
+Brasil,AC,Estado,2020-05-03,657.0,24.0
+Brasil,AC,Estado,2020-05-04,733.0,28.0
+Brasil,AC,Estado,2020-05-05,817.0,29.0
+Brasil,AC,Estado,2020-05-06,943.0,33.0
+Brasil,AC,Estado,2020-05-07,1014.0,36.0
+Brasil,AC,Estado,2020-05-08,1177.0,38.0
+Brasil,AC,Estado,2020-05-09,1335.0,39.0
+Brasil,AC,Estado,2020-05-10,1447.0,41.0
+Brasil,AC,Estado,2020-05-11,1460.0,45.0
+Brasil,AC,Estado,2020-05-12,1590.0,51.0
+Brasil,AC,Estado,2020-05-13,1694.0,52.0
+Brasil,AC,Estado,2020-05-14,1740.0,55.0
+Brasil,AC,Estado,2020-05-15,1785.0,57.0
+Brasil,AC,Estado,2020-05-16,1867.0,59.0
+Brasil,AC,Estado,2020-05-17,1997.0,60.0
+Brasil,AC,Estado,2020-05-18,2234.0,67.0
+Brasil,AC,Estado,2020-05-19,2482.0,72.0
+Brasil,AC,Estado,2020-05-20,2817.0,76.0
+Brasil,AC,Estado,2020-05-21,3103.0,78.0
+Brasil,AC,Estado,2020-05-22,3343.0,80.0
+Brasil,AC,Estado,2020-05-23,3867.0,87.0
+Brasil,AC,Estado,2020-05-24,4160.0,92.0
+Brasil,AC,Estado,2020-05-25,4501.0,97.0
+Brasil,AC,Estado,2020-05-26,4781.0,105.0
+Brasil,AC,Estado,2020-05-27,5251.0,113.0
+Brasil,AC,Estado,2020-05-28,5600.0,122.0
+Brasil,AC,Estado,2020-05-29,5841.0,135.0
+Brasil,AC,Estado,2020-05-30,6072.0,142.0
+Brasil,AC,Estado,2020-05-31,6219.0,148.0
+Brasil,AC,Estado,2020-06-01,6326.0,161.0
+Brasil,AC,Estado,2020-06-02,6465.0,165.0
+Brasil,AC,Estado,2020-06-03,6679.0,171.0
+Brasil,AC,Estado,2020-06-04,7021.0,181.0
+Brasil,AC,Estado,2020-06-05,7284.0,190.0
+Brasil,AC,Estado,2020-06-06,7525.0,201.0
+Brasil,AC,Estado,2020-06-07,7983.0,207.0
+Brasil,AC,Estado,2020-06-08,8128.0,211.0
+Brasil,AC,Estado,2020-06-09,8457.0,223.0
+Brasil,AC,Estado,2020-06-10,8746.0,237.0
+Brasil,AC,Estado,2020-06-11,9091.0,245.0
+Brasil,AC,Estado,2020-06-12,9295.0,254.0
+Brasil,AC,Estado,2020-06-13,9534.0,256.0
+Brasil,AC,Estado,2020-06-14,9642.0,259.0
+Brasil,AC,Estado,2020-06-15,9771.0,265.0
+Brasil,AC,Estado,2020-06-16,10003.0,271.0
+Brasil,AC,Estado,2020-06-17,10339.0,281.0
+Brasil,AC,Estado,2020-06-18,10664.0,287.0
+Brasil,AC,Estado,2020-06-19,10987.0,292.0
+Brasil,AC,Estado,2020-06-20,11263.0,297.0
+Brasil,AC,Estado,2020-06-21,11381.0,300.0
+Brasil,AC,Estado,2020-06-22,11539.0,305.0
+Brasil,AC,Estado,2020-06-23,11810.0,321.0
+Brasil,AC,Estado,2020-06-24,12022.0,326.0
+Brasil,AC,Estado,2020-06-25,12304.0,335.0
+Brasil,AC,Estado,2020-06-26,12644.0,343.0
+Brasil,AC,Estado,2020-06-27,12913.0,351.0
+Brasil,AC,Estado,2020-06-28,13058.0,353.0
+Brasil,AC,Estado,2020-06-29,13146.0,361.0
+Brasil,AC,Estado,2020-06-30,13253.0,365.0
+Brasil,AC,Estado,2020-07-01,13715.0,370.0
+Brasil,AC,Estado,2020-07-02,14048.0,378.0
+Brasil,AC,Estado,2020-07-03,14112.0,387.0
+Brasil,AC,Estado,2020-07-04,14487.0,391.0
+Brasil,AC,Estado,2020-07-05,14622.0,391.0
+Brasil,AC,Estado,2020-07-06,14688.0,394.0
+Brasil,AC,Estado,2020-07-07,14941.0,399.0
+Brasil,AC,Estado,2020-07-08,15167.0,404.0
+Brasil,AC,Estado,2020-07-09,15465.0,411.0
+Brasil,AC,Estado,2020-07-10,15768.0,417.0
+Brasil,AC,Estado,2020-07-11,16080.0,419.0
+Brasil,AC,Estado,2020-07-12,16190.0,426.0
+Brasil,AC,Estado,2020-07-13,16260.0,430.0
+Brasil,AC,Estado,2020-07-14,16479.0,436.0
+Brasil,AC,Estado,2020-07-15,16672.0,446.0
+Brasil,AC,Estado,2020-07-16,16865.0,447.0
+Brasil,AC,Estado,2020-07-17,16965.0,452.0
+Brasil,AC,Estado,2020-07-18,17202.0,457.0
+Brasil,AC,Estado,2020-07-19,17295.0,460.0
+Brasil,AC,Estado,2020-07-20,17462.0,465.0
+Brasil,AC,Estado,2020-07-21,17700.0,469.0
+Brasil,AC,Estado,2020-07-22,17979.0,470.0
+Brasil,AC,Estado,2020-07-23,18157.0,474.0
+Brasil,AC,Estado,2020-07-24,18393.0,480.0
+Brasil,AC,Estado,2020-07-25,18657.0,483.0
+Brasil,AC,Estado,2020-07-26,18745.0,486.0
+Brasil,AC,Estado,2020-07-27,18783.0,493.0
+Brasil,AM,Estado,2020-02-25,0.0,0.0
+Brasil,AM,Estado,2020-02-26,0.0,0.0
+Brasil,AM,Estado,2020-02-27,0.0,0.0
+Brasil,AM,Estado,2020-02-28,0.0,0.0
+Brasil,AM,Estado,2020-02-29,0.0,0.0
+Brasil,AM,Estado,2020-03-01,0.0,0.0
+Brasil,AM,Estado,2020-03-02,0.0,0.0
+Brasil,AM,Estado,2020-03-03,0.0,0.0
+Brasil,AM,Estado,2020-03-04,0.0,0.0
+Brasil,AM,Estado,2020-03-05,0.0,0.0
+Brasil,AM,Estado,2020-03-06,0.0,0.0
+Brasil,AM,Estado,2020-03-07,0.0,0.0
+Brasil,AM,Estado,2020-03-08,0.0,0.0
+Brasil,AM,Estado,2020-03-09,0.0,0.0
+Brasil,AM,Estado,2020-03-10,0.0,0.0
+Brasil,AM,Estado,2020-03-11,0.0,0.0
+Brasil,AM,Estado,2020-03-12,0.0,0.0
+Brasil,AM,Estado,2020-03-13,0.0,0.0
+Brasil,AM,Estado,2020-03-14,0.0,0.0
+Brasil,AM,Estado,2020-03-15,1.0,0.0
+Brasil,AM,Estado,2020-03-16,1.0,0.0
+Brasil,AM,Estado,2020-03-17,1.0,0.0
+Brasil,AM,Estado,2020-03-18,1.0,0.0
+Brasil,AM,Estado,2020-03-19,3.0,0.0
+Brasil,AM,Estado,2020-03-20,3.0,0.0
+Brasil,AM,Estado,2020-03-21,11.0,0.0
+Brasil,AM,Estado,2020-03-22,26.0,0.0
+Brasil,AM,Estado,2020-03-23,32.0,0.0
+Brasil,AM,Estado,2020-03-24,47.0,0.0
+Brasil,AM,Estado,2020-03-25,54.0,1.0
+Brasil,AM,Estado,2020-03-26,67.0,1.0
+Brasil,AM,Estado,2020-03-27,81.0,1.0
+Brasil,AM,Estado,2020-03-28,111.0,1.0
+Brasil,AM,Estado,2020-03-29,140.0,1.0
+Brasil,AM,Estado,2020-03-30,151.0,1.0
+Brasil,AM,Estado,2020-03-31,175.0,3.0
+Brasil,AM,Estado,2020-04-01,200.0,3.0
+Brasil,AM,Estado,2020-04-02,229.0,3.0
+Brasil,AM,Estado,2020-04-03,260.0,7.0
+Brasil,AM,Estado,2020-04-04,311.0,12.0
+Brasil,AM,Estado,2020-04-05,417.0,14.0
+Brasil,AM,Estado,2020-04-06,532.0,19.0
+Brasil,AM,Estado,2020-04-07,636.0,23.0
+Brasil,AM,Estado,2020-04-08,804.0,30.0
+Brasil,AM,Estado,2020-04-09,899.0,40.0
+Brasil,AM,Estado,2020-04-10,981.0,50.0
+Brasil,AM,Estado,2020-04-11,1050.0,53.0
+Brasil,AM,Estado,2020-04-12,1206.0,62.0
+Brasil,AM,Estado,2020-04-13,1275.0,71.0
+Brasil,AM,Estado,2020-04-14,1484.0,90.0
+Brasil,AM,Estado,2020-04-15,1554.0,106.0
+Brasil,AM,Estado,2020-04-16,1719.0,124.0
+Brasil,AM,Estado,2020-04-17,1809.0,145.0
+Brasil,AM,Estado,2020-04-18,1897.0,161.0
+Brasil,AM,Estado,2020-04-19,2044.0,182.0
+Brasil,AM,Estado,2020-04-20,2160.0,185.0
+Brasil,AM,Estado,2020-04-21,2270.0,193.0
+Brasil,AM,Estado,2020-04-22,2479.0,207.0
+Brasil,AM,Estado,2020-04-23,2888.0,234.0
+Brasil,AM,Estado,2020-04-24,3194.0,255.0
+Brasil,AM,Estado,2020-04-25,3635.0,287.0
+Brasil,AM,Estado,2020-04-26,3833.0,304.0
+Brasil,AM,Estado,2020-04-27,3928.0,320.0
+Brasil,AM,Estado,2020-04-28,4337.0,351.0
+Brasil,AM,Estado,2020-04-29,4801.0,380.0
+Brasil,AM,Estado,2020-04-30,5254.0,425.0
+Brasil,AM,Estado,2020-05-01,5723.0,476.0
+Brasil,AM,Estado,2020-05-02,6062.0,501.0
+Brasil,AM,Estado,2020-05-03,6683.0,548.0
+Brasil,AM,Estado,2020-05-04,7242.0,584.0
+Brasil,AM,Estado,2020-05-05,8109.0,649.0
+Brasil,AM,Estado,2020-05-06,9243.0,751.0
+Brasil,AM,Estado,2020-05-07,10099.0,806.0
+Brasil,AM,Estado,2020-05-08,10727.0,874.0
+Brasil,AM,Estado,2020-05-09,11925.0,962.0
+Brasil,AM,Estado,2020-05-10,12599.0,1004.0
+Brasil,AM,Estado,2020-05-11,12919.0,1035.0
+Brasil,AM,Estado,2020-05-12,14168.0,1098.0
+Brasil,AM,Estado,2020-05-13,15816.0,1160.0
+Brasil,AM,Estado,2020-05-14,17181.0,1235.0
+Brasil,AM,Estado,2020-05-15,18392.0,1331.0
+Brasil,AM,Estado,2020-05-16,19677.0,1375.0
+Brasil,AM,Estado,2020-05-17,20328.0,1413.0
+Brasil,AM,Estado,2020-05-18,20913.0,1433.0
+Brasil,AM,Estado,2020-05-19,22132.0,1491.0
+Brasil,AM,Estado,2020-05-20,23704.0,1561.0
+Brasil,AM,Estado,2020-05-21,25367.0,1620.0
+Brasil,AM,Estado,2020-05-22,27038.0,1669.0
+Brasil,AM,Estado,2020-05-23,28802.0,1744.0
+Brasil,AM,Estado,2020-05-24,29867.0,1758.0
+Brasil,AM,Estado,2020-05-25,30282.0,1781.0
+Brasil,AM,Estado,2020-05-26,31949.0,1852.0
+Brasil,AM,Estado,2020-05-27,33508.0,1891.0
+Brasil,AM,Estado,2020-05-28,36146.0,1964.0
+Brasil,AM,Estado,2020-05-29,38909.0,2011.0
+Brasil,AM,Estado,2020-05-30,40560.0,2047.0
+Brasil,AM,Estado,2020-05-31,41378.0,2052.0
+Brasil,AM,Estado,2020-06-01,41774.0,2071.0
+Brasil,AM,Estado,2020-06-02,43195.0,2102.0
+Brasil,AM,Estado,2020-06-03,44347.0,2138.0
+Brasil,AM,Estado,2020-06-04,46473.0,2183.0
+Brasil,AM,Estado,2020-06-05,47666.0,2199.0
+Brasil,AM,Estado,2020-06-06,48785.0,2232.0
+Brasil,AM,Estado,2020-06-07,49269.0,2250.0
+Brasil,AM,Estado,2020-06-08,49811.0,2271.0
+Brasil,AM,Estado,2020-06-09,51234.0,2315.0
+Brasil,AM,Estado,2020-06-10,52849.0,2363.0
+Brasil,AM,Estado,2020-06-11,53989.0,2400.0
+Brasil,AM,Estado,2020-06-12,55111.0,2429.0
+Brasil,AM,Estado,2020-06-13,56026.0,2465.0
+Brasil,AM,Estado,2020-06-14,56506.0,2492.0
+Brasil,AM,Estado,2020-06-15,56777.0,2512.0
+Brasil,AM,Estado,2020-06-16,58018.0,2549.0
+Brasil,AM,Estado,2020-06-17,59547.0,2579.0
+Brasil,AM,Estado,2020-06-18,60736.0,2605.0
+Brasil,AM,Estado,2020-06-19,61683.0,2624.0
+Brasil,AM,Estado,2020-06-20,62902.0,2650.0
+Brasil,AM,Estado,2020-06-21,63410.0,2657.0
+Brasil,AM,Estado,2020-06-22,63731.0,2671.0
+Brasil,AM,Estado,2020-06-23,65073.0,2686.0
+Brasil,AM,Estado,2020-06-24,66764.0,2710.0
+Brasil,AM,Estado,2020-06-25,67267.0,2731.0
+Brasil,AM,Estado,2020-06-26,68220.0,2739.0
+Brasil,AM,Estado,2020-06-27,69022.0,2772.0
+Brasil,AM,Estado,2020-06-28,69649.0,2780.0
+Brasil,AM,Estado,2020-06-29,69893.0,2792.0
+Brasil,AM,Estado,2020-06-30,70823.0,2823.0
+Brasil,AM,Estado,2020-07-01,72284.0,2843.0
+Brasil,AM,Estado,2020-07-02,73530.0,2862.0
+Brasil,AM,Estado,2020-07-03,74537.0,2887.0
+Brasil,AM,Estado,2020-07-04,75945.0,2918.0
+Brasil,AM,Estado,2020-07-05,76014.0,2929.0
+Brasil,AM,Estado,2020-07-06,76424.0,2938.0
+Brasil,AM,Estado,2020-07-07,79167.0,2952.0
+Brasil,AM,Estado,2020-07-08,80082.0,2967.0
+Brasil,AM,Estado,2020-07-09,81318.0,2985.0
+Brasil,AM,Estado,2020-07-10,82507.0,3008.0
+Brasil,AM,Estado,2020-07-11,83230.0,3023.0
+Brasil,AM,Estado,2020-07-12,83526.0,3039.0
+Brasil,AM,Estado,2020-07-13,84412.0,3048.0
+Brasil,AM,Estado,2020-07-14,85641.0,3063.0
+Brasil,AM,Estado,2020-07-15,86944.0,3080.0
+Brasil,AM,Estado,2020-07-16,88025.0,3095.0
+Brasil,AM,Estado,2020-07-17,88822.0,3118.0
+Brasil,AM,Estado,2020-07-18,90534.0,3129.0
+Brasil,AM,Estado,2020-07-19,90913.0,3149.0
+Brasil,AM,Estado,2020-07-20,91389.0,3146.0
+Brasil,AM,Estado,2020-07-21,92164.0,3169.0
+Brasil,AM,Estado,2020-07-22,92721.0,3183.0
+Brasil,AM,Estado,2020-07-23,94219.0,3193.0
+Brasil,AM,Estado,2020-07-24,95424.0,3199.0
+Brasil,AM,Estado,2020-07-25,96094.0,3210.0
+Brasil,AM,Estado,2020-07-26,96463.0,3217.0
+Brasil,AM,Estado,2020-07-27,97079.0,3224.0
+Brasil,PA,Estado,2020-02-25,0.0,0.0
+Brasil,PA,Estado,2020-02-26,0.0,0.0
+Brasil,PA,Estado,2020-02-27,0.0,0.0
+Brasil,PA,Estado,2020-02-28,0.0,0.0
+Brasil,PA,Estado,2020-02-29,0.0,0.0
+Brasil,PA,Estado,2020-03-01,0.0,0.0
+Brasil,PA,Estado,2020-03-02,0.0,0.0
+Brasil,PA,Estado,2020-03-03,0.0,0.0
+Brasil,PA,Estado,2020-03-04,0.0,0.0
+Brasil,PA,Estado,2020-03-05,0.0,0.0
+Brasil,PA,Estado,2020-03-06,0.0,0.0
+Brasil,PA,Estado,2020-03-07,0.0,0.0
+Brasil,PA,Estado,2020-03-08,0.0,0.0
+Brasil,PA,Estado,2020-03-09,0.0,0.0
+Brasil,PA,Estado,2020-03-10,0.0,0.0
+Brasil,PA,Estado,2020-03-11,0.0,0.0
+Brasil,PA,Estado,2020-03-12,0.0,0.0
+Brasil,PA,Estado,2020-03-13,0.0,0.0
+Brasil,PA,Estado,2020-03-14,0.0,0.0
+Brasil,PA,Estado,2020-03-15,0.0,0.0
+Brasil,PA,Estado,2020-03-16,0.0,0.0
+Brasil,PA,Estado,2020-03-17,0.0,0.0
+Brasil,PA,Estado,2020-03-18,0.0,0.0
+Brasil,PA,Estado,2020-03-19,1.0,0.0
+Brasil,PA,Estado,2020-03-20,2.0,0.0
+Brasil,PA,Estado,2020-03-21,2.0,0.0
+Brasil,PA,Estado,2020-03-22,4.0,0.0
+Brasil,PA,Estado,2020-03-23,5.0,0.0
+Brasil,PA,Estado,2020-03-24,5.0,0.0
+Brasil,PA,Estado,2020-03-25,7.0,0.0
+Brasil,PA,Estado,2020-03-26,13.0,0.0
+Brasil,PA,Estado,2020-03-27,13.0,0.0
+Brasil,PA,Estado,2020-03-28,17.0,0.0
+Brasil,PA,Estado,2020-03-29,18.0,0.0
+Brasil,PA,Estado,2020-03-30,21.0,0.0
+Brasil,PA,Estado,2020-03-31,32.0,0.0
+Brasil,PA,Estado,2020-04-01,40.0,1.0
+Brasil,PA,Estado,2020-04-02,46.0,1.0
+Brasil,PA,Estado,2020-04-03,50.0,1.0
+Brasil,PA,Estado,2020-04-04,80.0,1.0
+Brasil,PA,Estado,2020-04-05,86.0,1.0
+Brasil,PA,Estado,2020-04-06,102.0,3.0
+Brasil,PA,Estado,2020-04-07,138.0,5.0
+Brasil,PA,Estado,2020-04-08,167.0,6.0
+Brasil,PA,Estado,2020-04-09,168.0,7.0
+Brasil,PA,Estado,2020-04-10,170.0,9.0
+Brasil,PA,Estado,2020-04-11,217.0,10.0
+Brasil,PA,Estado,2020-04-12,246.0,13.0
+Brasil,PA,Estado,2020-04-13,270.0,15.0
+Brasil,PA,Estado,2020-04-14,323.0,19.0
+Brasil,PA,Estado,2020-04-15,384.0,21.0
+Brasil,PA,Estado,2020-04-16,438.0,24.0
+Brasil,PA,Estado,2020-04-17,557.0,26.0
+Brasil,PA,Estado,2020-04-18,640.0,33.0
+Brasil,PA,Estado,2020-04-19,685.0,34.0
+Brasil,PA,Estado,2020-04-20,902.0,35.0
+Brasil,PA,Estado,2020-04-21,1026.0,38.0
+Brasil,PA,Estado,2020-04-22,1195.0,43.0
+Brasil,PA,Estado,2020-04-23,1267.0,53.0
+Brasil,PA,Estado,2020-04-24,1446.0,75.0
+Brasil,PA,Estado,2020-04-25,1579.0,86.0
+Brasil,PA,Estado,2020-04-26,1867.0,100.0
+Brasil,PA,Estado,2020-04-27,2128.0,114.0
+Brasil,PA,Estado,2020-04-28,2262.0,129.0
+Brasil,PA,Estado,2020-04-29,2422.0,137.0
+Brasil,PA,Estado,2020-04-30,2876.0,208.0
+Brasil,PA,Estado,2020-05-01,3176.0,235.0
+Brasil,PA,Estado,2020-05-02,3460.0,273.0
+Brasil,PA,Estado,2020-05-03,3863.0,309.0
+Brasil,PA,Estado,2020-05-04,4125.0,330.0
+Brasil,PA,Estado,2020-05-05,4472.0,369.0
+Brasil,PA,Estado,2020-05-06,5017.0,392.0
+Brasil,PA,Estado,2020-05-07,5524.0,410.0
+Brasil,PA,Estado,2020-05-08,6141.0,515.0
+Brasil,PA,Estado,2020-05-09,6775.0,578.0
+Brasil,PA,Estado,2020-05-10,7256.0,652.0
+Brasil,PA,Estado,2020-05-11,7563.0,708.0
+Brasil,PA,Estado,2020-05-12,8616.0,864.0
+Brasil,PA,Estado,2020-05-13,9618.0,946.0
+Brasil,PA,Estado,2020-05-14,10867.0,1063.0
+Brasil,PA,Estado,2020-05-15,12109.0,1145.0
+Brasil,PA,Estado,2020-05-16,13184.0,1199.0
+Brasil,PA,Estado,2020-05-17,13864.0,1239.0
+Brasil,PA,Estado,2020-05-18,14734.0,1329.0
+Brasil,PA,Estado,2020-05-19,16295.0,1519.0
+Brasil,PA,Estado,2020-05-20,18135.0,1633.0
+Brasil,PA,Estado,2020-05-21,19756.0,1852.0
+Brasil,PA,Estado,2020-05-22,21469.0,1937.0
+Brasil,PA,Estado,2020-05-23,22697.0,2001.0
+Brasil,PA,Estado,2020-05-24,24125.0,2148.0
+Brasil,PA,Estado,2020-05-25,26077.0,2372.0
+Brasil,PA,Estado,2020-05-26,28600.0,2469.0
+Brasil,PA,Estado,2020-05-27,31033.0,2545.0
+Brasil,PA,Estado,2020-05-28,33699.0,2704.0
+Brasil,PA,Estado,2020-05-29,36486.0,2827.0
+Brasil,PA,Estado,2020-05-30,37296.0,2900.0
+Brasil,PA,Estado,2020-05-31,37961.0,2923.0
+Brasil,PA,Estado,2020-06-01,38046.0,2925.0
+Brasil,PA,Estado,2020-06-02,41207.0,3040.0
+Brasil,PA,Estado,2020-06-03,44774.0,3193.0
+Brasil,PA,Estado,2020-06-04,48049.0,3416.0
+Brasil,PA,Estado,2020-06-05,50960.0,3538.0
+Brasil,PA,Estado,2020-06-06,53176.0,3612.0
+Brasil,PA,Estado,2020-06-07,54271.0,3678.0
+Brasil,PA,Estado,2020-06-08,56032.0,3772.0
+Brasil,PA,Estado,2020-06-09,59148.0,3853.0
+Brasil,PA,Estado,2020-06-10,62095.0,3927.0
+Brasil,PA,Estado,2020-06-11,64126.0,4030.0
+Brasil,PA,Estado,2020-06-12,66328.0,4132.0
+Brasil,PA,Estado,2020-06-13,68510.0,4177.0
+Brasil,PA,Estado,2020-06-14,69179.0,4191.0
+Brasil,PA,Estado,2020-06-15,69224.0,4201.0
+Brasil,PA,Estado,2020-06-16,71243.0,4291.0
+Brasil,PA,Estado,2020-06-17,74192.0,4350.0
+Brasil,PA,Estado,2020-06-18,76623.0,4395.0
+Brasil,PA,Estado,2020-06-19,80072.0,4469.0
+Brasil,PA,Estado,2020-06-20,82881.0,4519.0
+Brasil,PA,Estado,2020-06-21,84654.0,4583.0
+Brasil,PA,Estado,2020-06-22,86020.0,4605.0
+Brasil,PA,Estado,2020-06-23,88636.0,4672.0
+Brasil,PA,Estado,2020-06-24,91708.0,4726.0
+Brasil,PA,Estado,2020-06-25,94036.0,4748.0
+Brasil,PA,Estado,2020-06-26,96472.0,4803.0
+Brasil,PA,Estado,2020-06-27,99313.0,4834.0
+Brasil,PA,Estado,2020-06-28,100443.0,4845.0
+Brasil,PA,Estado,2020-06-29,101207.0,4870.0
+Brasil,PA,Estado,2020-06-30,103206.0,4920.0
+Brasil,PA,Estado,2020-07-01,105853.0,4960.0
+Brasil,PA,Estado,2020-07-02,108067.0,5004.0
+Brasil,PA,Estado,2020-07-03,110411.0,5050.0
+Brasil,PA,Estado,2020-07-04,112531.0,5069.0
+Brasil,PA,Estado,2020-07-05,113811.0,5096.0
+Brasil,PA,Estado,2020-07-06,114535.0,5105.0
+Brasil,PA,Estado,2020-07-07,116152.0,5128.0
+Brasil,PA,Estado,2020-07-08,118744.0,5169.0
+Brasil,PA,Estado,2020-07-09,120731.0,5196.0
+Brasil,PA,Estado,2020-07-10,122674.0,5224.0
+Brasil,PA,Estado,2020-07-11,124934.0,5274.0
+Brasil,PA,Estado,2020-07-12,125714.0,5289.0
+Brasil,PA,Estado,2020-07-13,126509.0,5293.0
+Brasil,PA,Estado,2020-07-14,128570.0,5318.0
+Brasil,PA,Estado,2020-07-15,130834.0,5337.0
+Brasil,PA,Estado,2020-07-16,133039.0,5385.0
+Brasil,PA,Estado,2020-07-17,135164.0,5448.0
+Brasil,PA,Estado,2020-07-18,136947.0,5478.0
+Brasil,PA,Estado,2020-07-19,137484.0,5523.0
+Brasil,PA,Estado,2020-07-20,138396.0,5538.0
+Brasil,PA,Estado,2020-07-21,140388.0,5553.0
+Brasil,PA,Estado,2020-07-22,142358.0,5581.0
+Brasil,PA,Estado,2020-07-23,144467.0,5616.0
+Brasil,PA,Estado,2020-07-24,146252.0,5646.0
+Brasil,PA,Estado,2020-07-25,147923.0,5689.0
+Brasil,PA,Estado,2020-07-26,148463.0,5716.0
+Brasil,PA,Estado,2020-07-27,148823.0,5729.0
+Brasil,AP,Estado,2020-02-25,0.0,0.0
+Brasil,AP,Estado,2020-02-26,0.0,0.0
+Brasil,AP,Estado,2020-02-27,0.0,0.0
+Brasil,AP,Estado,2020-02-28,0.0,0.0
+Brasil,AP,Estado,2020-02-29,0.0,0.0
+Brasil,AP,Estado,2020-03-01,0.0,0.0
+Brasil,AP,Estado,2020-03-02,0.0,0.0
+Brasil,AP,Estado,2020-03-03,0.0,0.0
+Brasil,AP,Estado,2020-03-04,0.0,0.0
+Brasil,AP,Estado,2020-03-05,0.0,0.0
+Brasil,AP,Estado,2020-03-06,0.0,0.0
+Brasil,AP,Estado,2020-03-07,0.0,0.0
+Brasil,AP,Estado,2020-03-08,0.0,0.0
+Brasil,AP,Estado,2020-03-09,0.0,0.0
+Brasil,AP,Estado,2020-03-10,0.0,0.0
+Brasil,AP,Estado,2020-03-11,0.0,0.0
+Brasil,AP,Estado,2020-03-12,0.0,0.0
+Brasil,AP,Estado,2020-03-13,0.0,0.0
+Brasil,AP,Estado,2020-03-14,0.0,0.0
+Brasil,AP,Estado,2020-03-15,0.0,0.0
+Brasil,AP,Estado,2020-03-16,0.0,0.0
+Brasil,AP,Estado,2020-03-17,0.0,0.0
+Brasil,AP,Estado,2020-03-18,0.0,0.0
+Brasil,AP,Estado,2020-03-19,0.0,0.0
+Brasil,AP,Estado,2020-03-20,1.0,0.0
+Brasil,AP,Estado,2020-03-21,1.0,0.0
+Brasil,AP,Estado,2020-03-22,1.0,0.0
+Brasil,AP,Estado,2020-03-23,1.0,0.0
+Brasil,AP,Estado,2020-03-24,1.0,0.0
+Brasil,AP,Estado,2020-03-25,1.0,0.0
+Brasil,AP,Estado,2020-03-26,2.0,0.0
+Brasil,AP,Estado,2020-03-27,2.0,0.0
+Brasil,AP,Estado,2020-03-28,4.0,0.0
+Brasil,AP,Estado,2020-03-29,4.0,0.0
+Brasil,AP,Estado,2020-03-30,8.0,0.0
+Brasil,AP,Estado,2020-03-31,10.0,0.0
+Brasil,AP,Estado,2020-04-01,11.0,0.0
+Brasil,AP,Estado,2020-04-02,11.0,0.0
+Brasil,AP,Estado,2020-04-03,19.0,0.0
+Brasil,AP,Estado,2020-04-04,28.0,1.0
+Brasil,AP,Estado,2020-04-05,29.0,2.0
+Brasil,AP,Estado,2020-04-06,34.0,2.0
+Brasil,AP,Estado,2020-04-07,48.0,2.0
+Brasil,AP,Estado,2020-04-08,107.0,2.0
+Brasil,AP,Estado,2020-04-09,128.0,2.0
+Brasil,AP,Estado,2020-04-10,166.0,2.0
+Brasil,AP,Estado,2020-04-11,193.0,3.0
+Brasil,AP,Estado,2020-04-12,230.0,5.0
+Brasil,AP,Estado,2020-04-13,242.0,5.0
+Brasil,AP,Estado,2020-04-14,307.0,6.0
+Brasil,AP,Estado,2020-04-15,334.0,7.0
+Brasil,AP,Estado,2020-04-16,362.0,9.0
+Brasil,AP,Estado,2020-04-17,370.0,10.0
+Brasil,AP,Estado,2020-04-18,393.0,10.0
+Brasil,AP,Estado,2020-04-19,416.0,11.0
+Brasil,AP,Estado,2020-04-20,433.0,13.0
+Brasil,AP,Estado,2020-04-21,457.0,13.0
+Brasil,AP,Estado,2020-04-22,479.0,14.0
+Brasil,AP,Estado,2020-04-23,548.0,16.0
+Brasil,AP,Estado,2020-04-24,633.0,18.0
+Brasil,AP,Estado,2020-04-25,685.0,19.0
+Brasil,AP,Estado,2020-04-26,798.0,21.0
+Brasil,AP,Estado,2020-04-27,842.0,26.0
+Brasil,AP,Estado,2020-04-28,918.0,28.0
+Brasil,AP,Estado,2020-04-29,1016.0,31.0
+Brasil,AP,Estado,2020-04-30,1080.0,34.0
+Brasil,AP,Estado,2020-05-01,1121.0,37.0
+Brasil,AP,Estado,2020-05-02,1187.0,40.0
+Brasil,AP,Estado,2020-05-03,1482.0,43.0
+Brasil,AP,Estado,2020-05-04,1733.0,49.0
+Brasil,AP,Estado,2020-05-05,1931.0,55.0
+Brasil,AP,Estado,2020-05-06,2046.0,56.0
+Brasil,AP,Estado,2020-05-07,2199.0,61.0
+Brasil,AP,Estado,2020-05-08,2322.0,66.0
+Brasil,AP,Estado,2020-05-09,2493.0,69.0
+Brasil,AP,Estado,2020-05-10,2613.0,72.0
+Brasil,AP,Estado,2020-05-11,2671.0,73.0
+Brasil,AP,Estado,2020-05-12,2910.0,86.0
+Brasil,AP,Estado,2020-05-13,3005.0,94.0
+Brasil,AP,Estado,2020-05-14,3428.0,101.0
+Brasil,AP,Estado,2020-05-15,3630.0,103.0
+Brasil,AP,Estado,2020-05-16,3834.0,108.0
+Brasil,AP,Estado,2020-05-17,3952.0,119.0
+Brasil,AP,Estado,2020-05-18,4023.0,127.0
+Brasil,AP,Estado,2020-05-19,4310.0,136.0
+Brasil,AP,Estado,2020-05-20,4549.0,142.0
+Brasil,AP,Estado,2020-05-21,5188.0,151.0
+Brasil,AP,Estado,2020-05-22,5655.0,157.0
+Brasil,AP,Estado,2020-05-23,6091.0,162.0
+Brasil,AP,Estado,2020-05-24,6353.0,163.0
+Brasil,AP,Estado,2020-05-25,6584.0,168.0
+Brasil,AP,Estado,2020-05-26,6967.0,173.0
+Brasil,AP,Estado,2020-05-27,7619.0,183.0
+Brasil,AP,Estado,2020-05-28,8152.0,198.0
+Brasil,AP,Estado,2020-05-29,8469.0,207.0
+Brasil,AP,Estado,2020-05-30,9313.0,215.0
+Brasil,AP,Estado,2020-05-31,9602.0,222.0
+Brasil,AP,Estado,2020-06-01,9890.0,228.0
+Brasil,AP,Estado,2020-06-02,10511.0,237.0
+Brasil,AP,Estado,2020-06-03,11107.0,247.0
+Brasil,AP,Estado,2020-06-04,11551.0,254.0
+Brasil,AP,Estado,2020-06-05,12327.0,260.0
+Brasil,AP,Estado,2020-06-06,12773.0,269.0
+Brasil,AP,Estado,2020-06-07,13045.0,272.0
+Brasil,AP,Estado,2020-06-08,13294.0,278.0
+Brasil,AP,Estado,2020-06-09,13771.0,285.0
+Brasil,AP,Estado,2020-06-10,14623.0,289.0
+Brasil,AP,Estado,2020-06-11,15166.0,303.0
+Brasil,AP,Estado,2020-06-12,15683.0,312.0
+Brasil,AP,Estado,2020-06-13,16322.0,319.0
+Brasil,AP,Estado,2020-06-14,16512.0,324.0
+Brasil,AP,Estado,2020-06-15,16813.0,329.0
+Brasil,AP,Estado,2020-06-16,18024.0,337.0
+Brasil,AP,Estado,2020-06-17,18618.0,338.0
+Brasil,AP,Estado,2020-06-18,19387.0,342.0
+Brasil,AP,Estado,2020-06-19,19922.0,348.0
+Brasil,AP,Estado,2020-06-20,21574.0,353.0
+Brasil,AP,Estado,2020-06-21,21840.0,359.0
+Brasil,AP,Estado,2020-06-22,24682.0,372.0
+Brasil,AP,Estado,2020-06-23,26437.0,380.0
+Brasil,AP,Estado,2020-06-24,26919.0,387.0
+Brasil,AP,Estado,2020-06-25,27415.0,394.0
+Brasil,AP,Estado,2020-06-26,27662.0,401.0
+Brasil,AP,Estado,2020-06-27,27901.0,406.0
+Brasil,AP,Estado,2020-06-28,27985.0,407.0
+Brasil,AP,Estado,2020-06-29,28253.0,413.0
+Brasil,AP,Estado,2020-06-30,28492.0,417.0
+Brasil,AP,Estado,2020-07-01,28927.0,420.0
+Brasil,AP,Estado,2020-07-02,29153.0,427.0
+Brasil,AP,Estado,2020-07-03,29574.0,438.0
+Brasil,AP,Estado,2020-07-04,29809.0,441.0
+Brasil,AP,Estado,2020-07-05,29883.0,442.0
+Brasil,AP,Estado,2020-07-06,30004.0,449.0
+Brasil,AP,Estado,2020-07-07,30294.0,455.0
+Brasil,AP,Estado,2020-07-08,30524.0,462.0
+Brasil,AP,Estado,2020-07-09,30763.0,467.0
+Brasil,AP,Estado,2020-07-10,31080.0,470.0
+Brasil,AP,Estado,2020-07-11,31279.0,473.0
+Brasil,AP,Estado,2020-07-12,31364.0,474.0
+Brasil,AP,Estado,2020-07-13,31552.0,478.0
+Brasil,AP,Estado,2020-07-14,31885.0,483.0
+Brasil,AP,Estado,2020-07-15,32408.0,488.0
+Brasil,AP,Estado,2020-07-16,33004.0,493.0
+Brasil,AP,Estado,2020-07-17,33436.0,499.0
+Brasil,AP,Estado,2020-07-18,33585.0,505.0
+Brasil,AP,Estado,2020-07-19,33705.0,507.0
+Brasil,AP,Estado,2020-07-20,34145.0,515.0
+Brasil,AP,Estado,2020-07-21,34405.0,533.0
+Brasil,AP,Estado,2020-07-22,34660.0,544.0
+Brasil,AP,Estado,2020-07-23,34838.0,548.0
+Brasil,AP,Estado,2020-07-24,35026.0,552.0
+Brasil,AP,Estado,2020-07-25,35162.0,554.0
+Brasil,AP,Estado,2020-07-26,35220.0,554.0
+Brasil,AP,Estado,2020-07-27,35364.0,556.0
+Brasil,TO,Estado,2020-02-25,0.0,0.0
+Brasil,TO,Estado,2020-02-26,0.0,0.0
+Brasil,TO,Estado,2020-02-27,0.0,0.0
+Brasil,TO,Estado,2020-02-28,0.0,0.0
+Brasil,TO,Estado,2020-02-29,0.0,0.0
+Brasil,TO,Estado,2020-03-01,0.0,0.0
+Brasil,TO,Estado,2020-03-02,0.0,0.0
+Brasil,TO,Estado,2020-03-03,0.0,0.0
+Brasil,TO,Estado,2020-03-04,0.0,0.0
+Brasil,TO,Estado,2020-03-05,0.0,0.0
+Brasil,TO,Estado,2020-03-06,0.0,0.0
+Brasil,TO,Estado,2020-03-07,0.0,0.0
+Brasil,TO,Estado,2020-03-08,0.0,0.0
+Brasil,TO,Estado,2020-03-09,0.0,0.0
+Brasil,TO,Estado,2020-03-10,0.0,0.0
+Brasil,TO,Estado,2020-03-11,0.0,0.0
+Brasil,TO,Estado,2020-03-12,0.0,0.0
+Brasil,TO,Estado,2020-03-13,0.0,0.0
+Brasil,TO,Estado,2020-03-14,0.0,0.0
+Brasil,TO,Estado,2020-03-15,0.0,0.0
+Brasil,TO,Estado,2020-03-16,0.0,0.0
+Brasil,TO,Estado,2020-03-17,0.0,0.0
+Brasil,TO,Estado,2020-03-18,0.0,0.0
+Brasil,TO,Estado,2020-03-19,1.0,0.0
+Brasil,TO,Estado,2020-03-20,1.0,0.0
+Brasil,TO,Estado,2020-03-21,2.0,0.0
+Brasil,TO,Estado,2020-03-22,2.0,0.0
+Brasil,TO,Estado,2020-03-23,5.0,0.0
+Brasil,TO,Estado,2020-03-24,7.0,0.0
+Brasil,TO,Estado,2020-03-25,7.0,0.0
+Brasil,TO,Estado,2020-03-26,7.0,0.0
+Brasil,TO,Estado,2020-03-27,8.0,0.0
+Brasil,TO,Estado,2020-03-28,9.0,0.0
+Brasil,TO,Estado,2020-03-29,9.0,0.0
+Brasil,TO,Estado,2020-03-30,10.0,0.0
+Brasil,TO,Estado,2020-03-31,11.0,0.0
+Brasil,TO,Estado,2020-04-01,12.0,0.0
+Brasil,TO,Estado,2020-04-02,12.0,0.0
+Brasil,TO,Estado,2020-04-03,12.0,0.0
+Brasil,TO,Estado,2020-04-04,14.0,0.0
+Brasil,TO,Estado,2020-04-05,17.0,0.0
+Brasil,TO,Estado,2020-04-06,17.0,0.0
+Brasil,TO,Estado,2020-04-07,19.0,0.0
+Brasil,TO,Estado,2020-04-08,23.0,0.0
+Brasil,TO,Estado,2020-04-09,23.0,0.0
+Brasil,TO,Estado,2020-04-10,23.0,0.0
+Brasil,TO,Estado,2020-04-11,23.0,0.0
+Brasil,TO,Estado,2020-04-12,25.0,0.0
+Brasil,TO,Estado,2020-04-13,26.0,0.0
+Brasil,TO,Estado,2020-04-14,26.0,0.0
+Brasil,TO,Estado,2020-04-15,26.0,1.0
+Brasil,TO,Estado,2020-04-16,29.0,1.0
+Brasil,TO,Estado,2020-04-17,31.0,1.0
+Brasil,TO,Estado,2020-04-18,33.0,1.0
+Brasil,TO,Estado,2020-04-19,33.0,1.0
+Brasil,TO,Estado,2020-04-20,34.0,1.0
+Brasil,TO,Estado,2020-04-21,37.0,1.0
+Brasil,TO,Estado,2020-04-22,37.0,1.0
+Brasil,TO,Estado,2020-04-23,37.0,2.0
+Brasil,TO,Estado,2020-04-24,43.0,2.0
+Brasil,TO,Estado,2020-04-25,50.0,2.0
+Brasil,TO,Estado,2020-04-26,58.0,2.0
+Brasil,TO,Estado,2020-04-27,67.0,2.0
+Brasil,TO,Estado,2020-04-28,79.0,2.0
+Brasil,TO,Estado,2020-04-29,116.0,3.0
+Brasil,TO,Estado,2020-04-30,137.0,3.0
+Brasil,TO,Estado,2020-05-01,164.0,3.0
+Brasil,TO,Estado,2020-05-02,191.0,4.0
+Brasil,TO,Estado,2020-05-03,246.0,4.0
+Brasil,TO,Estado,2020-05-04,267.0,6.0
+Brasil,TO,Estado,2020-05-05,303.0,7.0
+Brasil,TO,Estado,2020-05-06,351.0,9.0
+Brasil,TO,Estado,2020-05-07,423.0,9.0
+Brasil,TO,Estado,2020-05-08,494.0,9.0
+Brasil,TO,Estado,2020-05-09,572.0,9.0
+Brasil,TO,Estado,2020-05-10,688.0,11.0
+Brasil,TO,Estado,2020-05-11,747.0,12.0
+Brasil,TO,Estado,2020-05-12,828.0,14.0
+Brasil,TO,Estado,2020-05-13,932.0,21.0
+Brasil,TO,Estado,2020-05-14,1029.0,23.0
+Brasil,TO,Estado,2020-05-15,1179.0,24.0
+Brasil,TO,Estado,2020-05-16,1279.0,27.0
+Brasil,TO,Estado,2020-05-17,1382.0,31.0
+Brasil,TO,Estado,2020-05-18,1496.0,32.0
+Brasil,TO,Estado,2020-05-19,1646.0,38.0
+Brasil,TO,Estado,2020-05-20,1809.0,42.0
+Brasil,TO,Estado,2020-05-21,1976.0,47.0
+Brasil,TO,Estado,2020-05-22,2205.0,49.0
+Brasil,TO,Estado,2020-05-23,2430.0,51.0
+Brasil,TO,Estado,2020-05-24,2591.0,52.0
+Brasil,TO,Estado,2020-05-25,2696.0,58.0
+Brasil,TO,Estado,2020-05-26,2858.0,64.0
+Brasil,TO,Estado,2020-05-27,3023.0,65.0
+Brasil,TO,Estado,2020-05-28,3277.0,68.0
+Brasil,TO,Estado,2020-05-29,3611.0,70.0
+Brasil,TO,Estado,2020-05-30,3981.0,71.0
+Brasil,TO,Estado,2020-05-31,4176.0,73.0
+Brasil,TO,Estado,2020-06-01,4345.0,76.0
+Brasil,TO,Estado,2020-06-02,4483.0,79.0
+Brasil,TO,Estado,2020-06-03,4698.0,82.0
+Brasil,TO,Estado,2020-06-04,4881.0,87.0
+Brasil,TO,Estado,2020-06-05,5182.0,89.0
+Brasil,TO,Estado,2020-06-06,5505.0,96.0
+Brasil,TO,Estado,2020-06-07,5644.0,99.0
+Brasil,TO,Estado,2020-06-08,5807.0,108.0
+Brasil,TO,Estado,2020-06-09,6052.0,114.0
+Brasil,TO,Estado,2020-06-10,6257.0,120.0
+Brasil,TO,Estado,2020-06-11,6529.0,124.0
+Brasil,TO,Estado,2020-06-12,6744.0,128.0
+Brasil,TO,Estado,2020-06-13,6931.0,130.0
+Brasil,TO,Estado,2020-06-14,6972.0,132.0
+Brasil,TO,Estado,2020-06-15,7137.0,136.0
+Brasil,TO,Estado,2020-06-16,7309.0,140.0
+Brasil,TO,Estado,2020-06-17,7573.0,149.0
+Brasil,TO,Estado,2020-06-18,7774.0,152.0
+Brasil,TO,Estado,2020-06-19,7956.0,159.0
+Brasil,TO,Estado,2020-06-20,8203.0,167.0
+Brasil,TO,Estado,2020-06-21,8354.0,175.0
+Brasil,TO,Estado,2020-06-22,8477.0,178.0
+Brasil,TO,Estado,2020-06-23,8766.0,179.0
+Brasil,TO,Estado,2020-06-24,9098.0,181.0
+Brasil,TO,Estado,2020-06-25,9425.0,183.0
+Brasil,TO,Estado,2020-06-26,9681.0,186.0
+Brasil,TO,Estado,2020-06-27,9966.0,191.0
+Brasil,TO,Estado,2020-06-28,10228.0,192.0
+Brasil,TO,Estado,2020-06-29,10359.0,195.0
+Brasil,TO,Estado,2020-06-30,10764.0,200.0
+Brasil,TO,Estado,2020-07-01,11222.0,204.0
+Brasil,TO,Estado,2020-07-02,11454.0,209.0
+Brasil,TO,Estado,2020-07-03,11736.0,211.0
+Brasil,TO,Estado,2020-07-04,12282.0,215.0
+Brasil,TO,Estado,2020-07-05,12475.0,220.0
+Brasil,TO,Estado,2020-07-06,12640.0,224.0
+Brasil,TO,Estado,2020-07-07,13004.0,228.0
+Brasil,TO,Estado,2020-07-08,13440.0,233.0
+Brasil,TO,Estado,2020-07-09,13845.0,240.0
+Brasil,TO,Estado,2020-07-10,14509.0,245.0
+Brasil,TO,Estado,2020-07-11,14939.0,251.0
+Brasil,TO,Estado,2020-07-12,15132.0,255.0
+Brasil,TO,Estado,2020-07-13,15307.0,259.0
+Brasil,TO,Estado,2020-07-14,15723.0,267.0
+Brasil,TO,Estado,2020-07-15,16031.0,271.0
+Brasil,TO,Estado,2020-07-16,16672.0,278.0
+Brasil,TO,Estado,2020-07-17,16954.0,283.0
+Brasil,TO,Estado,2020-07-18,17209.0,288.0
+Brasil,TO,Estado,2020-07-19,17773.0,294.0
+Brasil,TO,Estado,2020-07-20,17898.0,299.0
+Brasil,TO,Estado,2020-07-21,18354.0,308.0
+Brasil,TO,Estado,2020-07-22,18850.0,315.0
+Brasil,TO,Estado,2020-07-23,19423.0,326.0
+Brasil,TO,Estado,2020-07-24,19965.0,334.0
+Brasil,TO,Estado,2020-07-25,20920.0,340.0
+Brasil,TO,Estado,2020-07-26,21767.0,346.0
+Brasil,TO,Estado,2020-07-27,22106.0,350.0
+Brasil,CE,Estado,2020-02-25,0.0,0.0
+Brasil,CE,Estado,2020-02-26,0.0,0.0
+Brasil,CE,Estado,2020-02-27,0.0,0.0
+Brasil,CE,Estado,2020-02-28,0.0,0.0
+Brasil,CE,Estado,2020-02-29,0.0,0.0
+Brasil,CE,Estado,2020-03-01,0.0,0.0
+Brasil,CE,Estado,2020-03-02,0.0,0.0
+Brasil,CE,Estado,2020-03-03,0.0,0.0
+Brasil,CE,Estado,2020-03-04,0.0,0.0
+Brasil,CE,Estado,2020-03-05,0.0,0.0
+Brasil,CE,Estado,2020-03-06,0.0,0.0
+Brasil,CE,Estado,2020-03-07,0.0,0.0
+Brasil,CE,Estado,2020-03-08,0.0,0.0
+Brasil,CE,Estado,2020-03-09,0.0,0.0
+Brasil,CE,Estado,2020-03-10,0.0,0.0
+Brasil,CE,Estado,2020-03-11,0.0,0.0
+Brasil,CE,Estado,2020-03-12,0.0,0.0
+Brasil,CE,Estado,2020-03-13,0.0,0.0
+Brasil,CE,Estado,2020-03-14,0.0,0.0
+Brasil,CE,Estado,2020-03-15,0.0,0.0
+Brasil,CE,Estado,2020-03-16,0.0,0.0
+Brasil,CE,Estado,2020-03-17,5.0,0.0
+Brasil,CE,Estado,2020-03-18,9.0,0.0
+Brasil,CE,Estado,2020-03-19,20.0,0.0
+Brasil,CE,Estado,2020-03-20,55.0,0.0
+Brasil,CE,Estado,2020-03-21,68.0,0.0
+Brasil,CE,Estado,2020-03-22,112.0,0.0
+Brasil,CE,Estado,2020-03-23,163.0,0.0
+Brasil,CE,Estado,2020-03-24,182.0,0.0
+Brasil,CE,Estado,2020-03-25,200.0,0.0
+Brasil,CE,Estado,2020-03-26,235.0,3.0
+Brasil,CE,Estado,2020-03-27,282.0,3.0
+Brasil,CE,Estado,2020-03-28,314.0,4.0
+Brasil,CE,Estado,2020-03-29,348.0,5.0
+Brasil,CE,Estado,2020-03-30,372.0,5.0
+Brasil,CE,Estado,2020-03-31,390.0,7.0
+Brasil,CE,Estado,2020-04-01,444.0,8.0
+Brasil,CE,Estado,2020-04-02,550.0,20.0
+Brasil,CE,Estado,2020-04-03,627.0,22.0
+Brasil,CE,Estado,2020-04-04,730.0,22.0
+Brasil,CE,Estado,2020-04-05,823.0,26.0
+Brasil,CE,Estado,2020-04-06,1013.0,29.0
+Brasil,CE,Estado,2020-04-07,1051.0,31.0
+Brasil,CE,Estado,2020-04-08,1291.0,43.0
+Brasil,CE,Estado,2020-04-09,1425.0,55.0
+Brasil,CE,Estado,2020-04-10,1478.0,58.0
+Brasil,CE,Estado,2020-04-11,1582.0,67.0
+Brasil,CE,Estado,2020-04-12,1676.0,74.0
+Brasil,CE,Estado,2020-04-13,1800.0,91.0
+Brasil,CE,Estado,2020-04-14,2005.0,107.0
+Brasil,CE,Estado,2020-04-15,2157.0,116.0
+Brasil,CE,Estado,2020-04-16,2386.0,124.0
+Brasil,CE,Estado,2020-04-17,2684.0,149.0
+Brasil,CE,Estado,2020-04-18,3034.0,176.0
+Brasil,CE,Estado,2020-04-19,3252.0,186.0
+Brasil,CE,Estado,2020-04-20,3482.0,198.0
+Brasil,CE,Estado,2020-04-21,3716.0,215.0
+Brasil,CE,Estado,2020-04-22,3910.0,233.0
+Brasil,CE,Estado,2020-04-23,4598.0,266.0
+Brasil,CE,Estado,2020-04-24,4800.0,284.0
+Brasil,CE,Estado,2020-04-25,5421.0,310.0
+Brasil,CE,Estado,2020-04-26,5833.0,327.0
+Brasil,CE,Estado,2020-04-27,6726.0,390.0
+Brasil,CE,Estado,2020-04-28,6918.0,403.0
+Brasil,CE,Estado,2020-04-29,7267.0,441.0
+Brasil,CE,Estado,2020-04-30,7606.0,482.0
+Brasil,CE,Estado,2020-05-01,7879.0,505.0
+Brasil,CE,Estado,2020-05-02,8231.0,614.0
+Brasil,CE,Estado,2020-05-03,8370.0,663.0
+Brasil,CE,Estado,2020-05-04,11040.0,712.0
+Brasil,CE,Estado,2020-05-05,11470.0,795.0
+Brasil,CE,Estado,2020-05-06,12304.0,848.0
+Brasil,CE,Estado,2020-05-07,13888.0,903.0
+Brasil,CE,Estado,2020-05-08,14956.0,966.0
+Brasil,CE,Estado,2020-05-09,15879.0,1062.0
+Brasil,CE,Estado,2020-05-10,16692.0,1114.0
+Brasil,CE,Estado,2020-05-11,17599.0,1189.0
+Brasil,CE,Estado,2020-05-12,18412.0,1280.0
+Brasil,CE,Estado,2020-05-13,19156.0,1389.0
+Brasil,CE,Estado,2020-05-14,21077.0,1413.0
+Brasil,CE,Estado,2020-05-15,22490.0,1476.0
+Brasil,CE,Estado,2020-05-16,23795.0,1614.0
+Brasil,CE,Estado,2020-05-17,24255.0,1641.0
+Brasil,CE,Estado,2020-05-18,26363.0,1748.0
+Brasil,CE,Estado,2020-05-19,28112.0,1856.0
+Brasil,CE,Estado,2020-05-20,30560.0,1900.0
+Brasil,CE,Estado,2020-05-21,31413.0,2161.0
+Brasil,CE,Estado,2020-05-22,34573.0,2251.0
+Brasil,CE,Estado,2020-05-23,35122.0,2308.0
+Brasil,CE,Estado,2020-05-24,35595.0,2324.0
+Brasil,CE,Estado,2020-05-25,36185.0,2493.0
+Brasil,CE,Estado,2020-05-26,37021.0,2603.0
+Brasil,CE,Estado,2020-05-27,37275.0,2671.0
+Brasil,CE,Estado,2020-05-28,37821.0,2733.0
+Brasil,CE,Estado,2020-05-29,38395.0,2859.0
+Brasil,CE,Estado,2020-05-30,46506.0,2956.0
+Brasil,CE,Estado,2020-05-31,48489.0,3010.0
+Brasil,CE,Estado,2020-06-01,50504.0,3188.0
+Brasil,CE,Estado,2020-06-02,53073.0,3421.0
+Brasil,CE,Estado,2020-06-03,56056.0,3605.0
+Brasil,CE,Estado,2020-06-04,59795.0,3813.0
+Brasil,CE,Estado,2020-06-05,61595.0,3890.0
+Brasil,CE,Estado,2020-06-06,63575.0,3965.0
+Brasil,CE,Estado,2020-06-07,64271.0,3982.0
+Brasil,CE,Estado,2020-06-08,65605.0,4120.0
+Brasil,CE,Estado,2020-06-09,68384.0,4309.0
+Brasil,CE,Estado,2020-06-10,71402.0,4480.0
+Brasil,CE,Estado,2020-06-11,73879.0,4663.0
+Brasil,CE,Estado,2020-06-12,75705.0,4788.0
+Brasil,CE,Estado,2020-06-13,76429.0,4829.0
+Brasil,CE,Estado,2020-06-14,76748.0,4861.0
+Brasil,CE,Estado,2020-06-15,79462.0,4999.0
+Brasil,CE,Estado,2020-06-16,81289.0,5070.0
+Brasil,CE,Estado,2020-06-17,84967.0,5282.0
+Brasil,CE,Estado,2020-06-18,87273.0,5377.0
+Brasil,CE,Estado,2020-06-19,89863.0,5460.0
+Brasil,CE,Estado,2020-06-20,92156.0,5518.0
+Brasil,CE,Estado,2020-06-21,92866.0,5523.0
+Brasil,CE,Estado,2020-06-22,94158.0,5604.0
+Brasil,CE,Estado,2020-06-23,97528.0,5717.0
+Brasil,CE,Estado,2020-06-24,99578.0,5815.0
+Brasil,CE,Estado,2020-06-25,102126.0,5875.0
+Brasil,CE,Estado,2020-06-26,104422.0,5920.0
+Brasil,CE,Estado,2020-06-27,106628.0,5981.0
+Brasil,CE,Estado,2020-06-28,107568.0,5990.0
+Brasil,CE,Estado,2020-06-29,108225.0,6076.0
+Brasil,CE,Estado,2020-06-30,108699.0,6146.0
+Brasil,CE,Estado,2020-07-01,113017.0,6180.0
+Brasil,CE,Estado,2020-07-02,115524.0,6284.0
+Brasil,CE,Estado,2020-07-03,118041.0,6351.0
+Brasil,CE,Estado,2020-07-04,120952.0,6411.0
+Brasil,CE,Estado,2020-07-05,121464.0,6441.0
+Brasil,CE,Estado,2020-07-06,122477.0,6481.0
+Brasil,CE,Estado,2020-07-07,124952.0,6556.0
+Brasil,CE,Estado,2020-07-08,128471.0,6665.0
+Brasil,CE,Estado,2020-07-09,131000.0,6741.0
+Brasil,CE,Estado,2020-07-10,133546.0,6777.0
+Brasil,CE,Estado,2020-07-11,135945.0,6853.0
+Brasil,CE,Estado,2020-07-12,136785.0,6868.0
+Brasil,CE,Estado,2020-07-13,137206.0,6947.0
+Brasil,CE,Estado,2020-07-14,139437.0,6977.0
+Brasil,CE,Estado,2020-07-15,141248.0,7030.0
+Brasil,CE,Estado,2020-07-16,144000.0,7127.0
+Brasil,CE,Estado,2020-07-17,145938.0,7165.0
+Brasil,CE,Estado,2020-07-18,146544.0,7173.0
+Brasil,CE,Estado,2020-07-19,146972.0,7178.0
+Brasil,CE,Estado,2020-07-20,147566.0,7185.0
+Brasil,CE,Estado,2020-07-21,148986.0,7284.0
+Brasil,CE,Estado,2020-07-22,153108.0,7317.0
+Brasil,CE,Estado,2020-07-23,156242.0,7374.0
+Brasil,CE,Estado,2020-07-24,158824.0,7426.0
+Brasil,CE,Estado,2020-07-25,161597.0,7476.0
+Brasil,CE,Estado,2020-07-26,162085.0,7493.0
+Brasil,CE,Estado,2020-07-27,162429.0,7509.0
+Brasil,RJ,Estado,2020-02-25,0.0,0.0
+Brasil,RJ,Estado,2020-02-26,0.0,0.0
+Brasil,RJ,Estado,2020-02-27,0.0,0.0
+Brasil,RJ,Estado,2020-02-28,0.0,0.0
+Brasil,RJ,Estado,2020-02-29,0.0,0.0
+Brasil,RJ,Estado,2020-03-01,0.0,0.0
+Brasil,RJ,Estado,2020-03-02,0.0,0.0
+Brasil,RJ,Estado,2020-03-03,0.0,0.0
+Brasil,RJ,Estado,2020-03-04,0.0,0.0
+Brasil,RJ,Estado,2020-03-05,1.0,0.0
+Brasil,RJ,Estado,2020-03-06,1.0,0.0
+Brasil,RJ,Estado,2020-03-07,2.0,0.0
+Brasil,RJ,Estado,2020-03-08,3.0,0.0
+Brasil,RJ,Estado,2020-03-09,3.0,0.0
+Brasil,RJ,Estado,2020-03-10,8.0,0.0
+Brasil,RJ,Estado,2020-03-11,13.0,0.0
+Brasil,RJ,Estado,2020-03-12,16.0,0.0
+Brasil,RJ,Estado,2020-03-13,16.0,0.0
+Brasil,RJ,Estado,2020-03-14,22.0,0.0
+Brasil,RJ,Estado,2020-03-15,24.0,0.0
+Brasil,RJ,Estado,2020-03-16,31.0,0.0
+Brasil,RJ,Estado,2020-03-17,33.0,0.0
+Brasil,RJ,Estado,2020-03-18,45.0,0.0
+Brasil,RJ,Estado,2020-03-19,65.0,2.0
+Brasil,RJ,Estado,2020-03-20,109.0,2.0
+Brasil,RJ,Estado,2020-03-21,119.0,3.0
+Brasil,RJ,Estado,2020-03-22,186.0,3.0
+Brasil,RJ,Estado,2020-03-23,233.0,4.0
+Brasil,RJ,Estado,2020-03-24,305.0,6.0
+Brasil,RJ,Estado,2020-03-25,370.0,6.0
+Brasil,RJ,Estado,2020-03-26,421.0,9.0
+Brasil,RJ,Estado,2020-03-27,493.0,10.0
+Brasil,RJ,Estado,2020-03-28,558.0,13.0
+Brasil,RJ,Estado,2020-03-29,600.0,17.0
+Brasil,RJ,Estado,2020-03-30,657.0,18.0
+Brasil,RJ,Estado,2020-03-31,708.0,23.0
+Brasil,RJ,Estado,2020-04-01,832.0,28.0
+Brasil,RJ,Estado,2020-04-02,992.0,41.0
+Brasil,RJ,Estado,2020-04-03,1074.0,47.0
+Brasil,RJ,Estado,2020-04-04,1246.0,58.0
+Brasil,RJ,Estado,2020-04-05,1394.0,64.0
+Brasil,RJ,Estado,2020-04-06,1461.0,71.0
+Brasil,RJ,Estado,2020-04-07,1688.0,89.0
+Brasil,RJ,Estado,2020-04-08,1938.0,106.0
+Brasil,RJ,Estado,2020-04-09,2216.0,122.0
+Brasil,RJ,Estado,2020-04-10,2464.0,147.0
+Brasil,RJ,Estado,2020-04-11,2607.0,155.0
+Brasil,RJ,Estado,2020-04-12,2855.0,170.0
+Brasil,RJ,Estado,2020-04-13,3231.0,188.0
+Brasil,RJ,Estado,2020-04-14,3410.0,224.0
+Brasil,RJ,Estado,2020-04-15,3743.0,265.0
+Brasil,RJ,Estado,2020-04-16,3944.0,300.0
+Brasil,RJ,Estado,2020-04-17,4349.0,341.0
+Brasil,RJ,Estado,2020-04-18,4543.0,387.0
+Brasil,RJ,Estado,2020-04-19,4765.0,402.0
+Brasil,RJ,Estado,2020-04-20,4899.0,422.0
+Brasil,RJ,Estado,2020-04-21,5306.0,461.0
+Brasil,RJ,Estado,2020-04-22,5552.0,490.0
+Brasil,RJ,Estado,2020-04-23,6172.0,530.0
+Brasil,RJ,Estado,2020-04-24,6282.0,570.0
+Brasil,RJ,Estado,2020-04-25,6828.0,615.0
+Brasil,RJ,Estado,2020-04-26,7111.0,645.0
+Brasil,RJ,Estado,2020-04-27,7944.0,677.0
+Brasil,RJ,Estado,2020-04-28,8504.0,738.0
+Brasil,RJ,Estado,2020-04-29,8869.0,794.0
+Brasil,RJ,Estado,2020-04-30,9453.0,854.0
+Brasil,RJ,Estado,2020-05-01,10166.0,921.0
+Brasil,RJ,Estado,2020-05-02,10546.0,971.0
+Brasil,RJ,Estado,2020-05-03,11139.0,1019.0
+Brasil,RJ,Estado,2020-05-04,11721.0,1065.0
+Brasil,RJ,Estado,2020-05-05,12391.0,1123.0
+Brasil,RJ,Estado,2020-05-06,13295.0,1205.0
+Brasil,RJ,Estado,2020-05-07,14156.0,1394.0
+Brasil,RJ,Estado,2020-05-08,15741.0,1503.0
+Brasil,RJ,Estado,2020-05-09,16929.0,1653.0
+Brasil,RJ,Estado,2020-05-10,17062.0,1714.0
+Brasil,RJ,Estado,2020-05-11,17939.0,1770.0
+Brasil,RJ,Estado,2020-05-12,18486.0,1928.0
+Brasil,RJ,Estado,2020-05-13,18728.0,2050.0
+Brasil,RJ,Estado,2020-05-14,19467.0,2247.0
+Brasil,RJ,Estado,2020-05-15,19987.0,2438.0
+Brasil,RJ,Estado,2020-05-16,21601.0,2614.0
+Brasil,RJ,Estado,2020-05-17,22238.0,2715.0
+Brasil,RJ,Estado,2020-05-18,26665.0,2852.0
+Brasil,RJ,Estado,2020-05-19,27805.0,3079.0
+Brasil,RJ,Estado,2020-05-20,30372.0,3237.0
+Brasil,RJ,Estado,2020-05-21,32089.0,3412.0
+Brasil,RJ,Estado,2020-05-22,33589.0,3657.0
+Brasil,RJ,Estado,2020-05-23,34533.0,3905.0
+Brasil,RJ,Estado,2020-05-24,37912.0,3993.0
+Brasil,RJ,Estado,2020-05-25,39298.0,4105.0
+Brasil,RJ,Estado,2020-05-26,40024.0,4361.0
+Brasil,RJ,Estado,2020-05-27,42398.0,4605.0
+Brasil,RJ,Estado,2020-05-28,44886.0,4856.0
+Brasil,RJ,Estado,2020-05-29,47953.0,5079.0
+Brasil,RJ,Estado,2020-05-30,52420.0,5277.0
+Brasil,RJ,Estado,2020-05-31,53388.0,5344.0
+Brasil,RJ,Estado,2020-06-01,54530.0,5462.0
+Brasil,RJ,Estado,2020-06-02,56732.0,5686.0
+Brasil,RJ,Estado,2020-06-03,59240.0,6010.0
+Brasil,RJ,Estado,2020-06-04,60932.0,6327.0
+Brasil,RJ,Estado,2020-06-05,63066.0,6473.0
+Brasil,RJ,Estado,2020-06-06,64533.0,6639.0
+Brasil,RJ,Estado,2020-06-07,67756.0,6707.0
+Brasil,RJ,Estado,2020-06-08,69499.0,6781.0
+Brasil,RJ,Estado,2020-06-09,72979.0,6928.0
+Brasil,RJ,Estado,2020-06-10,74373.0,7138.0
+Brasil,RJ,Estado,2020-06-11,75775.0,7363.0
+Brasil,RJ,Estado,2020-06-12,77784.0,7417.0
+Brasil,RJ,Estado,2020-06-13,78836.0,7592.0
+Brasil,RJ,Estado,2020-06-14,79572.0,7672.0
+Brasil,RJ,Estado,2020-06-15,80946.0,7728.0
+Brasil,RJ,Estado,2020-06-16,83343.0,7967.0
+Brasil,RJ,Estado,2020-06-17,86963.0,8138.0
+Brasil,RJ,Estado,2020-06-18,87317.0,8412.0
+Brasil,RJ,Estado,2020-06-19,93378.0,8595.0
+Brasil,RJ,Estado,2020-06-20,95537.0,8824.0
+Brasil,RJ,Estado,2020-06-21,96133.0,8875.0
+Brasil,RJ,Estado,2020-06-22,97572.0,8933.0
+Brasil,RJ,Estado,2020-06-23,100869.0,9153.0
+Brasil,RJ,Estado,2020-06-24,103493.0,9295.0
+Brasil,RJ,Estado,2020-06-25,105897.0,9450.0
+Brasil,RJ,Estado,2020-06-26,108497.0,9587.0
+Brasil,RJ,Estado,2020-06-27,108803.0,9789.0
+Brasil,RJ,Estado,2020-06-28,111298.0,9819.0
+Brasil,RJ,Estado,2020-06-29,111883.0,9848.0
+Brasil,RJ,Estado,2020-06-30,112611.0,10080.0
+Brasil,RJ,Estado,2020-07-01,115278.0,10198.0
+Brasil,RJ,Estado,2020-07-02,116823.0,10332.0
+Brasil,RJ,Estado,2020-07-03,118956.0,10500.0
+Brasil,RJ,Estado,2020-07-04,120440.0,10624.0
+Brasil,RJ,Estado,2020-07-05,121292.0,10667.0
+Brasil,RJ,Estado,2020-07-06,121879.0,10698.0
+Brasil,RJ,Estado,2020-07-07,124086.0,10881.0
+Brasil,RJ,Estado,2020-07-08,126329.0,10970.0
+Brasil,RJ,Estado,2020-07-09,128324.0,11115.0
+Brasil,RJ,Estado,2020-07-10,129443.0,11280.0
+Brasil,RJ,Estado,2020-07-11,129675.0,11406.0
+Brasil,RJ,Estado,2020-07-12,129684.0,11415.0
+Brasil,RJ,Estado,2020-07-13,132044.0,11474.0
+Brasil,RJ,Estado,2020-07-14,132822.0,11624.0
+Brasil,RJ,Estado,2020-07-15,134449.0,11757.0
+Brasil,RJ,Estado,2020-07-16,134573.0,11849.0
+Brasil,RJ,Estado,2020-07-17,135230.0,11919.0
+Brasil,RJ,Estado,2020-07-18,135230.0,11919.0
+Brasil,RJ,Estado,2020-07-19,138524.0,12114.0
+Brasil,RJ,Estado,2020-07-20,141005.0,12161.0
+Brasil,RJ,Estado,2020-07-21,145121.0,12293.0
+Brasil,RJ,Estado,2020-07-22,148623.0,12443.0
+Brasil,RJ,Estado,2020-07-23,151549.0,12535.0
+Brasil,RJ,Estado,2020-07-24,154879.0,12654.0
+Brasil,RJ,Estado,2020-07-25,156293.0,12808.0
+Brasil,RJ,Estado,2020-07-26,156325.0,12835.0
+Brasil,RJ,Estado,2020-07-27,157834.0,12876.0
+Brasil,CE,Fortaleza,2020-03-27,0.0,0.0
+Brasil,CE,Fortaleza,2020-03-28,304.0,4.0
+Brasil,CE,Fortaleza,2020-03-29,338.0,5.0
+Brasil,CE,Fortaleza,2020-03-30,353.0,5.0
+Brasil,CE,Fortaleza,2020-03-31,371.0,6.0
+Brasil,CE,Fortaleza,2020-04-01,413.0,6.0
+Brasil,CE,Fortaleza,2020-04-02,507.0,16.0
+Brasil,CE,Fortaleza,2020-04-03,600.0,17.0
+Brasil,CE,Fortaleza,2020-04-04,680.0,17.0
+Brasil,CE,Fortaleza,2020-04-05,744.0,20.0
+Brasil,CE,Fortaleza,2020-04-06,925.0,24.0
+Brasil,CE,Fortaleza,2020-04-07,1053.0,30.0
+Brasil,CE,Fortaleza,2020-04-08,1213.0,41.0
+Brasil,CE,Fortaleza,2020-04-09,1283.0,45.0
+Brasil,CE,Fortaleza,2020-04-10,1366.0,53.0
+Brasil,CE,Fortaleza,2020-04-11,1457.0,58.0
+Brasil,CE,Fortaleza,2020-04-12,1529.0,59.0
+Brasil,CE,Fortaleza,2020-04-13,1686.0,78.0
+Brasil,CE,Fortaleza,2020-04-14,1794.0,86.0
+Brasil,CE,Fortaleza,2020-04-15,1946.0,93.0
+Brasil,CE,Fortaleza,2020-04-16,2041.0,95.0
+Brasil,CE,Fortaleza,2020-04-17,2263.0,113.0
+Brasil,CE,Fortaleza,2020-04-18,2562.0,141.0
+Brasil,CE,Fortaleza,2020-04-19,2688.0,148.0
+Brasil,CE,Fortaleza,2020-04-20,2840.0,164.0
+Brasil,CE,Fortaleza,2020-04-21,3018.0,178.0
+Brasil,CE,Fortaleza,2020-04-22,3303.0,189.0
+Brasil,CE,Fortaleza,2020-04-23,3791.0,212.0
+Brasil,CE,Fortaleza,2020-04-24,4063.0,228.0
+Brasil,CE,Fortaleza,2020-04-25,4541.0,259.0
+Brasil,CE,Fortaleza,2020-04-26,4852.0,285.0
+Brasil,CE,Fortaleza,2020-04-27,5280.0,310.0
+Brasil,CE,Fortaleza,2020-04-28,5481.0,329.0
+Brasil,CE,Fortaleza,2020-04-29,5712.0,349.0
+Brasil,CE,Fortaleza,2020-04-30,5875.0,373.0
+Brasil,CE,Fortaleza,2020-05-01,6083.0,403.0
+Brasil,CE,Fortaleza,2020-05-02,6353.0,498.0
+Brasil,CE,Fortaleza,2020-05-03,6417.0,528.0
+Brasil,CE,Fortaleza,2020-05-04,8198.0,553.0
+Brasil,CE,Fortaleza,2020-05-05,8509.0,608.0
+Brasil,CE,Fortaleza,2020-05-06,9061.0,651.0
+Brasil,CE,Fortaleza,2020-05-07,9669.0,694.0
+Brasil,CE,Fortaleza,2020-05-08,10348.0,741.0
+Brasil,CE,Fortaleza,2020-05-09,10995.0,809.0
+Brasil,CE,Fortaleza,2020-05-10,11556.0,840.0
+Brasil,CE,Fortaleza,2020-05-11,11935.0,893.0
+Brasil,CE,Fortaleza,2020-05-12,12484.0,950.0
+Brasil,CE,Fortaleza,2020-05-13,13037.0,1022.0
+Brasil,CE,Fortaleza,2020-05-14,13777.0,1039.0
+Brasil,CE,Fortaleza,2020-05-15,14259.0,1088.0
+Brasil,CE,Fortaleza,2020-05-16,15162.0,1163.0
+Brasil,CE,Fortaleza,2020-05-17,15371.0,1174.0
+Brasil,CE,Fortaleza,2020-05-18,16169.0,1253.0
+Brasil,CE,Fortaleza,2020-05-19,16784.0,1307.0
+Brasil,CE,Fortaleza,2020-05-20,18010.0,1333.0
+Brasil,CE,Fortaleza,2020-05-21,18644.0,1503.0
+Brasil,CE,Fortaleza,2020-05-22,19270.0,1548.0
+Brasil,CE,Fortaleza,2020-05-23,19552.0,1574.0
+Brasil,CE,Fortaleza,2020-05-24,19795.0,1579.0
+Brasil,CE,Fortaleza,2020-05-25,20146.0,1687.0
+Brasil,CE,Fortaleza,2020-05-26,20789.0,1769.0
+Brasil,CE,Fortaleza,2020-05-27,20939.0,1783.0
+Brasil,CE,Fortaleza,2020-05-28,21328.0,1804.0
+Brasil,CE,Fortaleza,2020-05-29,21705.0,1877.0
+Brasil,CE,Fortaleza,2020-05-30,23378.0,1939.0
+Brasil,CE,Fortaleza,2020-05-31,23613.0,1967.0
+Brasil,CE,Fortaleza,2020-06-01,24104.0,2084.0
+Brasil,CE,Fortaleza,2020-06-02,24897.0,2231.0
+Brasil,CE,Fortaleza,2020-06-03,25726.0,2334.0
+Brasil,CE,Fortaleza,2020-06-04,26514.0,2424.0
+Brasil,CE,Fortaleza,2020-06-05,26933.0,2444.0
+Brasil,CE,Fortaleza,2020-06-06,27320.0,2459.0
+Brasil,CE,Fortaleza,2020-06-07,27411.0,2458.0
+Brasil,CE,Fortaleza,2020-06-08,27706.0,2539.0
+Brasil,CE,Fortaleza,2020-06-09,28366.0,2615.0
+Brasil,CE,Fortaleza,2020-06-10,29141.0,2697.0
+Brasil,CE,Fortaleza,2020-06-11,29711.0,2783.0
+Brasil,CE,Fortaleza,2020-06-12,30171.0,2843.0
+Brasil,CE,Fortaleza,2020-06-13,30323.0,2851.0
+Brasil,CE,Fortaleza,2020-06-14,30409.0,2853.0
+Brasil,CE,Fortaleza,2020-06-15,30863.0,2915.0
+Brasil,CE,Fortaleza,2020-06-16,31149.0,2943.0
+Brasil,CE,Fortaleza,2020-06-17,31779.0,3053.0
+Brasil,CE,Fortaleza,2020-06-18,32093.0,3084.0
+Brasil,CE,Fortaleza,2020-06-19,32473.0,3110.0
+Brasil,CE,Fortaleza,2020-06-20,32775.0,3112.0
+Brasil,CE,Fortaleza,2020-06-21,32854.0,3110.0
+Brasil,CE,Fortaleza,2020-06-22,33072.0,3138.0
+Brasil,CE,Fortaleza,2020-06-23,33751.0,3176.0
+Brasil,CE,Fortaleza,2020-06-24,34027.0,3212.0
+Brasil,CE,Fortaleza,2020-06-25,34313.0,3229.0
+Brasil,CE,Fortaleza,2020-06-26,34580.0,3235.0
+Brasil,CE,Fortaleza,2020-06-27,34929.0,3244.0
+Brasil,CE,Fortaleza,2020-06-28,35029.0,3245.0
+Brasil,CE,Fortaleza,2020-06-29,35081.0,3276.0
+Brasil,CE,Fortaleza,2020-06-30,35313.0,3288.0
+Brasil,CE,Fortaleza,2020-07-01,35523.0,3295.0
+Brasil,CE,Fortaleza,2020-07-02,35784.0,3323.0
+Brasil,CE,Fortaleza,2020-07-03,36100.0,3346.0
+Brasil,CE,Fortaleza,2020-07-04,36828.0,3366.0
+Brasil,CE,Fortaleza,2020-07-05,36875.0,3377.0
+Brasil,CE,Fortaleza,2020-07-06,37037.0,3377.0
+Brasil,CE,Fortaleza,2020-07-07,37258.0,3396.0
+Brasil,CE,Fortaleza,2020-07-08,37601.0,3447.0
+Brasil,CE,Fortaleza,2020-07-09,37713.0,3453.0
+Brasil,CE,Fortaleza,2020-07-10,37836.0,3464.0
+Brasil,CE,Fortaleza,2020-07-11,38050.0,3497.0
+Brasil,CE,Fortaleza,2020-07-12,38106.0,3500.0
+Brasil,CE,Fortaleza,2020-07-13,38128.0,3526.0
+Brasil,CE,Fortaleza,2020-07-14,38368.0,3536.0
+Brasil,CE,Fortaleza,2020-07-15,38504.0,3545.0
+Brasil,CE,Fortaleza,2020-07-16,38847.0,3569.0
+Brasil,CE,Fortaleza,2020-07-17,39664.0,3582.0
+Brasil,CE,Fortaleza,2020-07-18,39855.0,3582.0
+Brasil,CE,Fortaleza,2020-07-19,39892.0,3584.0
+Brasil,CE,Fortaleza,2020-07-20,39945.0,3584.0
+Brasil,CE,Fortaleza,2020-07-21,40019.0,3620.0
+Brasil,CE,Fortaleza,2020-07-22,40359.0,3618.0
+Brasil,CE,Fortaleza,2020-07-23,40671.0,3624.0
+Brasil,CE,Fortaleza,2020-07-24,40907.0,3651.0
+Brasil,CE,Fortaleza,2020-07-25,41106.0,3662.0
+Brasil,CE,Fortaleza,2020-07-26,41203.0,3663.0
+Brasil,CE,Fortaleza,2020-07-27,41253.0,3665.0
+Brasil,MA,São Luís,2020-03-27,0.0,0.0
+Brasil,MA,São Luís,2020-03-28,13.0,0.0
+Brasil,MA,São Luís,2020-03-29,15.0,0.0
+Brasil,MA,São Luís,2020-03-30,22.0,1.0
+Brasil,MA,São Luís,2020-03-31,29.0,1.0
+Brasil,MA,São Luís,2020-04-01,52.0,1.0
+Brasil,MA,São Luís,2020-04-02,68.0,1.0
+Brasil,MA,São Luís,2020-04-03,78.0,1.0
+Brasil,MA,São Luís,2020-04-04,82.0,1.0
+Brasil,MA,São Luís,2020-04-05,86.0,2.0
+Brasil,MA,São Luís,2020-04-06,121.0,2.0
+Brasil,MA,São Luís,2020-04-07,152.0,4.0
+Brasil,MA,São Luís,2020-04-08,203.0,11.0
+Brasil,MA,São Luís,2020-04-09,228.0,12.0
+Brasil,MA,São Luís,2020-04-10,247.0,16.0
+Brasil,MA,São Luís,2020-04-11,288.0,21.0
+Brasil,MA,São Luís,2020-04-12,333.0,24.0
+Brasil,MA,São Luís,2020-04-13,369.0,27.0
+Brasil,MA,São Luís,2020-04-14,392.0,32.0
+Brasil,MA,São Luís,2020-04-15,533.0,34.0
+Brasil,MA,São Luís,2020-04-16,582.0,37.0
+Brasil,MA,São Luís,2020-04-17,664.0,40.0
+Brasil,MA,São Luís,2020-04-18,862.0,38.0
+Brasil,MA,São Luís,2020-04-19,990.0,40.0
+Brasil,MA,São Luís,2020-04-20,1075.0,43.0
+Brasil,MA,São Luís,2020-04-21,1132.0,47.0
+Brasil,MA,São Luís,2020-04-22,1300.0,51.0
+Brasil,MA,São Luís,2020-04-23,1417.0,61.0
+Brasil,MA,São Luís,2020-04-24,1567.0,71.0
+Brasil,MA,São Luís,2020-04-25,1668.0,81.0
+Brasil,MA,São Luís,2020-04-26,1754.0,87.0
+Brasil,MA,São Luís,2020-04-27,1894.0,98.0
+Brasil,MA,São Luís,2020-04-28,1977.0,116.0
+Brasil,MA,São Luís,2020-04-29,2149.0,136.0
+Brasil,MA,São Luís,2020-04-30,2432.0,149.0
+Brasil,MA,São Luís,2020-05-01,2671.0,165.0
+Brasil,MA,São Luís,2020-05-02,2808.0,178.0
+Brasil,MA,São Luís,2020-05-03,2899.0,186.0
+Brasil,MA,São Luís,2020-05-04,2963.0,197.0
+Brasil,MA,São Luís,2020-05-05,3088.0,213.0
+Brasil,MA,São Luís,2020-05-06,3368.0,227.0
+Brasil,MA,São Luís,2020-05-07,3531.0,238.0
+Brasil,MA,São Luís,2020-05-08,3745.0,255.0
+Brasil,MA,São Luís,2020-05-09,4008.0,271.0
+Brasil,MA,São Luís,2020-05-10,4274.0,289.0
+Brasil,MA,São Luís,2020-05-11,4616.0,303.0
+Brasil,MA,São Luís,2020-05-12,4780.0,324.0
+Brasil,MA,São Luís,2020-05-13,4917.0,332.0
+Brasil,MA,São Luís,2020-05-14,5040.0,346.0
+Brasil,MA,São Luís,2020-05-15,5375.0,363.0
+Brasil,MA,São Luís,2020-05-16,5597.0,379.0
+Brasil,MA,São Luís,2020-05-17,5830.0,394.0
+Brasil,MA,São Luís,2020-05-18,5995.0,402.0
+Brasil,MA,São Luís,2020-05-19,6248.0,414.0
+Brasil,MA,São Luís,2020-05-20,6479.0,434.0
+Brasil,MA,São Luís,2020-05-21,6639.0,448.0
+Brasil,MA,São Luís,2020-05-22,6685.0,463.0
+Brasil,MA,São Luís,2020-05-23,7114.0,475.0
+Brasil,MA,São Luís,2020-05-24,7486.0,484.0
+Brasil,MA,São Luís,2020-05-25,7917.0,490.0
+Brasil,MA,São Luís,2020-05-26,8068.0,497.0
+Brasil,MA,São Luís,2020-05-27,8353.0,509.0
+Brasil,MA,São Luís,2020-05-28,8463.0,517.0
+Brasil,MA,São Luís,2020-05-29,8700.0,519.0
+Brasil,MA,São Luís,2020-05-30,8882.0,521.0
+Brasil,MA,São Luís,2020-05-31,9141.0,524.0
+Brasil,MA,São Luís,2020-06-01,9255.0,526.0
+Brasil,MA,São Luís,2020-06-02,9447.0,528.0
+Brasil,MA,São Luís,2020-06-03,9590.0,535.0
+Brasil,MA,São Luís,2020-06-04,9917.0,538.0
+Brasil,MA,São Luís,2020-06-05,9935.0,544.0
+Brasil,MA,São Luís,2020-06-06,10070.0,549.0
+Brasil,MA,São Luís,2020-06-07,10494.0,557.0
+Brasil,MA,São Luís,2020-06-08,10755.0,577.0
+Brasil,MA,São Luís,2020-06-09,11029.0,586.0
+Brasil,MA,São Luís,2020-06-10,11285.0,588.0
+Brasil,MA,São Luís,2020-06-11,11597.0,599.0
+Brasil,MA,São Luís,2020-06-12,11700.0,608.0
+Brasil,MA,São Luís,2020-06-13,11832.0,621.0
+Brasil,MA,São Luís,2020-06-14,11963.0,629.0
+Brasil,MA,São Luís,2020-06-15,12040.0,642.0
+Brasil,MA,São Luís,2020-06-16,12095.0,654.0
+Brasil,MA,São Luís,2020-06-17,12276.0,667.0
+Brasil,MA,São Luís,2020-06-18,12384.0,680.0
+Brasil,MA,São Luís,2020-06-19,12409.0,693.0
+Brasil,MA,São Luís,2020-06-20,12523.0,705.0
+Brasil,MA,São Luís,2020-06-21,12546.0,715.0
+Brasil,MA,São Luís,2020-06-22,12567.0,724.0
+Brasil,MA,São Luís,2020-06-23,12577.0,734.0
+Brasil,MA,São Luís,2020-06-24,12657.0,745.0
+Brasil,MA,São Luís,2020-06-25,12693.0,756.0
+Brasil,MA,São Luís,2020-06-26,12755.0,771.0
+Brasil,MA,São Luís,2020-06-27,12816.0,788.0
+Brasil,MA,São Luís,2020-06-28,12871.0,803.0
+Brasil,MA,São Luís,2020-06-29,12938.0,813.0
+Brasil,MA,São Luís,2020-06-30,13050.0,825.0
+Brasil,MA,São Luís,2020-07-01,13144.0,834.0
+Brasil,MA,São Luís,2020-07-02,13245.0,842.0
+Brasil,MA,São Luís,2020-07-03,13320.0,849.0
+Brasil,MA,São Luís,2020-07-04,13471.0,862.0
+Brasil,MA,São Luís,2020-07-05,13597.0,876.0
+Brasil,MA,São Luís,2020-07-06,13706.0,891.0
+Brasil,MA,São Luís,2020-07-07,13839.0,903.0
+Brasil,MA,São Luís,2020-07-08,13951.0,918.0
+Brasil,MA,São Luís,2020-07-09,14052.0,927.0
+Brasil,MA,São Luís,2020-07-10,14159.0,940.0
+Brasil,MA,São Luís,2020-07-11,14261.0,950.0
+Brasil,MA,São Luís,2020-07-12,14336.0,964.0
+Brasil,MA,São Luís,2020-07-13,14437.0,980.0
+Brasil,MA,São Luís,2020-07-14,14512.0,996.0
+Brasil,MA,São Luís,2020-07-15,14633.0,1010.0
+Brasil,MA,São Luís,2020-07-16,14734.0,1026.0
+Brasil,MA,São Luís,2020-07-17,14809.0,1036.0
+Brasil,MA,São Luís,2020-07-18,14898.0,1047.0
+Brasil,MA,São Luís,2020-07-19,14993.0,1059.0
+Brasil,MA,São Luís,2020-07-20,15098.0,1071.0
+Brasil,MA,São Luís,2020-07-21,15174.0,1084.0
+Brasil,MA,São Luís,2020-07-22,15279.0,1086.0
+Brasil,MA,São Luís,2020-07-23,15390.0,1095.0
+Brasil,MA,São Luís,2020-07-24,15493.0,1103.0
+Brasil,MA,São Luís,2020-07-25,15570.0,1110.0
+Brasil,MA,São Luís,2020-07-26,15651.0,1118.0
+Brasil,MA,São Luís,2020-07-27,15758.0,1128.0
+Brasil,BA,Salvador,2020-03-27,0.0,0.0
+Brasil,BA,Salvador,2020-03-28,82.0,0.0
+Brasil,BA,Salvador,2020-03-29,103.0,1.0
+Brasil,BA,Salvador,2020-03-30,117.0,1.0
+Brasil,BA,Salvador,2020-03-31,132.0,2.0
+Brasil,BA,Salvador,2020-04-01,153.0,2.0
+Brasil,BA,Salvador,2020-04-02,167.0,3.0
+Brasil,BA,Salvador,2020-04-03,183.0,5.0
+Brasil,BA,Salvador,2020-04-04,215.0,5.0
+Brasil,BA,Salvador,2020-04-05,243.0,7.0
+Brasil,BA,Salvador,2020-04-06,257.0,8.0
+Brasil,BA,Salvador,2020-04-07,268.0,10.0
+Brasil,BA,Salvador,2020-04-08,290.0,11.0
+Brasil,BA,Salvador,2020-04-09,312.0,11.0
+Brasil,BA,Salvador,2020-04-10,341.0,11.0
+Brasil,BA,Salvador,2020-04-11,353.0,11.0
+Brasil,BA,Salvador,2020-04-12,362.0,11.0
+Brasil,BA,Salvador,2020-04-13,388.0,11.0
+Brasil,BA,Salvador,2020-04-14,425.0,13.0
+Brasil,BA,Salvador,2020-04-15,519.0,0.0
+Brasil,BA,Salvador,2020-04-16,569.0,18.0
+Brasil,BA,Salvador,2020-04-17,642.0,18.0
+Brasil,BA,Salvador,2020-04-18,759.0,19.0
+Brasil,BA,Salvador,2020-04-19,762.0,22.0
+Brasil,BA,Salvador,2020-04-20,821.0,23.0
+Brasil,BA,Salvador,2020-04-21,922.0,24.0
+Brasil,BA,Salvador,2020-04-22,1034.0,28.0
+Brasil,BA,Salvador,2020-04-23,1131.0,34.0
+Brasil,BA,Salvador,2020-04-24,1218.0,37.0
+Brasil,BA,Salvador,2020-04-25,1303.0,38.0
+Brasil,BA,Salvador,2020-04-26,1357.0,39.0
+Brasil,BA,Salvador,2020-04-27,1430.0,48.0
+Brasil,BA,Salvador,2020-04-28,1578.0,56.0
+Brasil,BA,Salvador,2020-04-29,1639.0,62.0
+Brasil,BA,Salvador,2020-04-30,1784.0,67.0
+Brasil,BA,Salvador,2020-05-01,1995.0,76.0
+Brasil,BA,Salvador,2020-05-02,2100.0,78.0
+Brasil,BA,Salvador,2020-05-03,2247.0,80.0
+Brasil,BA,Salvador,2020-05-04,2370.0,91.0
+Brasil,BA,Salvador,2020-05-05,2599.0,95.0
+Brasil,BA,Salvador,2020-05-06,2746.0,98.0
+Brasil,BA,Salvador,2020-05-07,2877.0,101.0
+Brasil,BA,Salvador,2020-05-08,3129.0,118.0
+Brasil,BA,Salvador,2020-05-09,3342.0,127.0
+Brasil,BA,Salvador,2020-05-10,3670.0,128.0
+Brasil,BA,Salvador,2020-05-11,3884.0,138.0
+Brasil,BA,Salvador,2020-05-12,4107.0,145.0
+Brasil,BA,Salvador,2020-05-13,4349.0,148.0
+Brasil,BA,Salvador,2020-05-14,4619.0,167.0
+Brasil,BA,Salvador,2020-05-15,4842.0,204.0
+Brasil,BA,Salvador,2020-05-16,5267.0,185.0
+Brasil,BA,Salvador,2020-05-17,5317.0,213.0
+Brasil,BA,Salvador,2020-05-18,5326.0,229.0
+Brasil,BA,Salvador,2020-05-19,7106.0,215.0
+Brasil,BA,Salvador,2020-05-20,7169.0,241.0
+Brasil,BA,Salvador,2020-05-21,7578.0,248.0
+Brasil,BA,Salvador,2020-05-22,7860.0,257.0
+Brasil,BA,Salvador,2020-05-23,8084.0,264.0
+Brasil,BA,Salvador,2020-05-24,8734.0,303.0
+Brasil,BA,Salvador,2020-05-25,8941.0,314.0
+Brasil,BA,Salvador,2020-05-26,9227.0,328.0
+Brasil,BA,Salvador,2020-05-27,9472.0,357.0
+Brasil,BA,Salvador,2020-05-28,10006.0,390.0
+Brasil,BA,Salvador,2020-05-29,10485.0,421.0
+Brasil,BA,Salvador,2020-05-30,10791.0,443.0
+Brasil,BA,Salvador,2020-05-31,11218.0,453.0
+Brasil,BA,Salvador,2020-06-01,11499.0,474.0
+Brasil,BA,Salvador,2020-06-02,12954.0,493.0
+Brasil,BA,Salvador,2020-06-03,13367.0,511.0
+Brasil,BA,Salvador,2020-06-04,13801.0,535.0
+Brasil,BA,Salvador,2020-06-05,15260.0,558.0
+Brasil,BA,Salvador,2020-06-06,15724.0,579.0
+Brasil,BA,Salvador,2020-06-07,16099.0,600.0
+Brasil,BA,Salvador,2020-06-08,16323.0,622.0
+Brasil,BA,Salvador,2020-06-09,17224.0,640.0
+Brasil,BA,Salvador,2020-06-10,18201.0,674.0
+Brasil,BA,Salvador,2020-06-11,18784.0,707.0
+Brasil,BA,Salvador,2020-06-12,19093.0,720.0
+Brasil,BA,Salvador,2020-06-13,19732.0,728.0
+Brasil,BA,Salvador,2020-06-14,19893.0,742.0
+Brasil,BA,Salvador,2020-06-15,20638.0,752.0
+Brasil,BA,Salvador,2020-06-16,21203.0,775.0
+Brasil,BA,Salvador,2020-06-17,21955.0,800.0
+Brasil,BA,Salvador,2020-06-18,22254.0,827.0
+Brasil,BA,Salvador,2020-06-19,22777.0,854.0
+Brasil,BA,Salvador,2020-06-20,23124.0,884.0
+Brasil,BA,Salvador,2020-06-21,23483.0,904.0
+Brasil,BA,Salvador,2020-06-22,23663.0,919.0
+Brasil,BA,Salvador,2020-06-23,24393.0,953.0
+Brasil,BA,Salvador,2020-06-24,25803.0,991.0
+Brasil,BA,Salvador,2020-06-25,26864.0,1029.0
+Brasil,BA,Salvador,2020-06-26,27713.0,1046.0
+Brasil,BA,Salvador,2020-06-27,31199.0,1065.0
+Brasil,BA,Salvador,2020-06-28,32402.0,1093.0
+Brasil,BA,Salvador,2020-06-29,32673.0,1129.0
+Brasil,BA,Salvador,2020-06-30,33911.0,1163.0
+Brasil,BA,Salvador,2020-07-01,35026.0,1189.0
+Brasil,BA,Salvador,2020-07-02,35881.0,1209.0
+Brasil,BA,Salvador,2020-07-03,36856.0,1234.0
+Brasil,BA,Salvador,2020-07-04,38052.0,1256.0
+Brasil,BA,Salvador,2020-07-05,38511.0,1277.0
+Brasil,BA,Salvador,2020-07-06,38732.0,1311.0
+Brasil,BA,Salvador,2020-07-07,39920.0,1339.0
+Brasil,BA,Salvador,2020-07-08,40919.0,1366.0
+Brasil,BA,Salvador,2020-07-09,41522.0,1378.0
+Brasil,BA,Salvador,2020-07-10,42113.0,1392.0
+Brasil,BA,Salvador,2020-07-11,42734.0,1415.0
+Brasil,BA,Salvador,2020-07-12,43068.0,1424.0
+Brasil,BA,Salvador,2020-07-13,43239.0,1441.0
+Brasil,BA,Salvador,2020-07-14,43986.0,1459.0
+Brasil,BA,Salvador,2020-07-15,44586.0,1483.0
+Brasil,BA,Salvador,2020-07-16,45484.0,1514.0
+Brasil,BA,Salvador,2020-07-17,45961.0,1521.0
+Brasil,BA,Salvador,2020-07-18,46397.0,1528.0
+Brasil,BA,Salvador,2020-07-19,46587.0,1539.0
+Brasil,BA,Salvador,2020-07-20,46729.0,1545.0
+Brasil,BA,Salvador,2020-07-21,47461.0,1559.0
+Brasil,BA,Salvador,2020-07-22,48849.0,1582.0
+Brasil,BA,Salvador,2020-07-23,50219.0,1605.0
+Brasil,BA,Salvador,2020-07-24,51177.0,1630.0
+Brasil,BA,Salvador,2020-07-25,52020.0,1636.0
+Brasil,BA,Salvador,2020-07-26,52263.0,1641.0
+Brasil,BA,Salvador,2020-07-27,52417.0,1649.0
+Brasil,PI,Teresina,2020-03-27,0.0,0.0
+Brasil,PI,Teresina,2020-03-28,9.0,0.0
+Brasil,PI,Teresina,2020-03-29,12.0,0.0
+Brasil,PI,Teresina,2020-03-30,14.0,2.0
+Brasil,PI,Teresina,2020-03-31,16.0,2.0
+Brasil,PI,Teresina,2020-04-01,16.0,2.0
+Brasil,PI,Teresina,2020-04-02,17.0,2.0
+Brasil,PI,Teresina,2020-04-03,18.0,2.0
+Brasil,PI,Teresina,2020-04-04,19.0,2.0
+Brasil,PI,Teresina,2020-04-05,20.0,2.0
+Brasil,PI,Teresina,2020-04-06,20.0,2.0
+Brasil,PI,Teresina,2020-04-07,24.0,2.0
+Brasil,PI,Teresina,2020-04-08,24.0,3.0
+Brasil,PI,Teresina,2020-04-09,31.0,4.0
+Brasil,PI,Teresina,2020-04-10,32.0,5.0
+Brasil,PI,Teresina,2020-04-11,33.0,5.0
+Brasil,PI,Teresina,2020-04-12,36.0,5.0
+Brasil,PI,Teresina,2020-04-13,41.0,5.0
+Brasil,PI,Teresina,2020-04-14,47.0,5.0
+Brasil,PI,Teresina,2020-04-15,63.0,5.0
+Brasil,PI,Teresina,2020-04-16,77.0,5.0
+Brasil,PI,Teresina,2020-04-17,86.0,5.0
+Brasil,PI,Teresina,2020-04-18,94.0,5.0
+Brasil,PI,Teresina,2020-04-19,112.0,5.0
+Brasil,PI,Teresina,2020-04-20,122.0,5.0
+Brasil,PI,Teresina,2020-04-21,136.0,7.0
+Brasil,PI,Teresina,2020-04-22,150.0,7.0
+Brasil,PI,Teresina,2020-04-23,156.0,7.0
+Brasil,PI,Teresina,2020-04-24,179.0,7.0
+Brasil,PI,Teresina,2020-04-25,204.0,8.0
+Brasil,PI,Teresina,2020-04-26,223.0,8.0
+Brasil,PI,Teresina,2020-04-27,237.0,8.0
+Brasil,PI,Teresina,2020-04-28,277.0,9.0
+Brasil,PI,Teresina,2020-04-29,284.0,11.0
+Brasil,PI,Teresina,2020-04-30,321.0,11.0
+Brasil,PI,Teresina,2020-05-01,383.0,11.0
+Brasil,PI,Teresina,2020-05-02,420.0,13.0
+Brasil,PI,Teresina,2020-05-03,458.0,14.0
+Brasil,PI,Teresina,2020-05-04,485.0,14.0
+Brasil,PI,Teresina,2020-05-05,540.0,14.0
+Brasil,PI,Teresina,2020-05-06,580.0,14.0
+Brasil,PI,Teresina,2020-05-07,653.0,17.0
+Brasil,PI,Teresina,2020-05-08,697.0,18.0
+Brasil,PI,Teresina,2020-05-09,733.0,19.0
+Brasil,PI,Teresina,2020-05-10,755.0,22.0
+Brasil,PI,Teresina,2020-05-11,786.0,22.0
+Brasil,PI,Teresina,2020-05-12,847.0,23.0
+Brasil,PI,Teresina,2020-05-13,937.0,26.0
+Brasil,PI,Teresina,2020-05-14,1033.0,26.0
+Brasil,PI,Teresina,2020-05-15,1089.0,26.0
+Brasil,PI,Teresina,2020-05-16,1146.0,29.0
+Brasil,PI,Teresina,2020-05-17,1245.0,34.0
+Brasil,PI,Teresina,2020-05-18,1260.0,39.0
+Brasil,PI,Teresina,2020-05-19,1327.0,40.0
+Brasil,PI,Teresina,2020-05-20,1385.0,42.0
+Brasil,PI,Teresina,2020-05-21,1504.0,45.0
+Brasil,PI,Teresina,2020-05-22,1577.0,46.0
+Brasil,PI,Teresina,2020-05-23,1626.0,47.0
+Brasil,PI,Teresina,2020-05-24,1708.0,49.0
+Brasil,PI,Teresina,2020-05-25,1771.0,50.0
+Brasil,PI,Teresina,2020-05-26,1821.0,57.0
+Brasil,PI,Teresina,2020-05-27,1890.0,66.0
+Brasil,PI,Teresina,2020-05-28,1982.0,69.0
+Brasil,PI,Teresina,2020-05-29,2067.0,75.0
+Brasil,PI,Teresina,2020-05-30,2157.0,83.0
+Brasil,PI,Teresina,2020-05-31,2248.0,85.0
+Brasil,PI,Teresina,2020-06-01,2304.0,90.0
+Brasil,PI,Teresina,2020-06-02,2432.0,95.0
+Brasil,PI,Teresina,2020-06-03,2531.0,101.0
+Brasil,PI,Teresina,2020-06-04,2650.0,107.0
+Brasil,PI,Teresina,2020-06-05,2965.0,116.0
+Brasil,PI,Teresina,2020-06-06,3137.0,119.0
+Brasil,PI,Teresina,2020-06-07,3226.0,128.0
+Brasil,PI,Teresina,2020-06-08,3309.0,137.0
+Brasil,PI,Teresina,2020-06-09,3457.0,142.0
+Brasil,PI,Teresina,2020-06-10,3630.0,151.0
+Brasil,PI,Teresina,2020-06-11,3773.0,163.0
+Brasil,PI,Teresina,2020-06-12,4049.0,173.0
+Brasil,PI,Teresina,2020-06-13,4227.0,185.0
+Brasil,PI,Teresina,2020-06-14,4336.0,196.0
+Brasil,PI,Teresina,2020-06-15,4420.0,207.0
+Brasil,PI,Teresina,2020-06-16,4624.0,217.0
+Brasil,PI,Teresina,2020-06-17,4877.0,222.0
+Brasil,PI,Teresina,2020-06-18,5054.0,239.0
+Brasil,PI,Teresina,2020-06-19,5237.0,246.0
+Brasil,PI,Teresina,2020-06-20,5621.0,257.0
+Brasil,PI,Teresina,2020-06-21,5794.0,271.0
+Brasil,PI,Teresina,2020-06-22,5856.0,282.0
+Brasil,PI,Teresina,2020-06-23,6065.0,291.0
+Brasil,PI,Teresina,2020-06-24,6305.0,301.0
+Brasil,PI,Teresina,2020-06-25,6618.0,307.0
+Brasil,PI,Teresina,2020-06-26,6899.0,324.0
+Brasil,PI,Teresina,2020-06-27,7098.0,335.0
+Brasil,PI,Teresina,2020-06-28,7265.0,346.0
+Brasil,PI,Teresina,2020-06-29,7466.0,360.0
+Brasil,PI,Teresina,2020-06-30,7668.0,369.0
+Brasil,PI,Teresina,2020-07-01,8294.0,387.0
+Brasil,PI,Teresina,2020-07-02,8801.0,396.0
+Brasil,PI,Teresina,2020-07-03,9183.0,414.0
+Brasil,PI,Teresina,2020-07-04,9568.0,433.0
+Brasil,PI,Teresina,2020-07-05,9742.0,447.0
+Brasil,PI,Teresina,2020-07-06,9881.0,459.0
+Brasil,PI,Teresina,2020-07-07,10186.0,473.0
+Brasil,PI,Teresina,2020-07-08,10446.0,485.0
+Brasil,PI,Teresina,2020-07-09,10885.0,495.0
+Brasil,PI,Teresina,2020-07-10,11414.0,500.0
+Brasil,PI,Teresina,2020-07-11,11886.0,506.0
+Brasil,PI,Teresina,2020-07-12,11997.0,513.0
+Brasil,PI,Teresina,2020-07-13,12120.0,527.0
+Brasil,PI,Teresina,2020-07-14,12326.0,540.0
+Brasil,PI,Teresina,2020-07-15,12634.0,555.0
+Brasil,PI,Teresina,2020-07-16,12890.0,567.0
+Brasil,PI,Teresina,2020-07-17,12992.0,574.0
+Brasil,PI,Teresina,2020-07-18,13346.0,585.0
+Brasil,PI,Teresina,2020-07-19,13489.0,593.0
+Brasil,PI,Teresina,2020-07-20,13568.0,607.0
+Brasil,PI,Teresina,2020-07-21,13684.0,612.0
+Brasil,PI,Teresina,2020-07-22,14164.0,625.0
+Brasil,PI,Teresina,2020-07-23,14595.0,630.0
+Brasil,PI,Teresina,2020-07-24,14920.0,644.0
+Brasil,PI,Teresina,2020-07-25,15250.0,651.0
+Brasil,PI,Teresina,2020-07-26,15395.0,658.0
+Brasil,PI,Teresina,2020-07-27,15502.0,666.0
+Brasil,PB,João Pessoa,2020-03-27,0.0,0.0
+Brasil,PB,João Pessoa,2020-03-28,10.0,0.0
+Brasil,PB,João Pessoa,2020-03-29,10.0,0.0
+Brasil,PB,João Pessoa,2020-03-30,11.0,0.0
+Brasil,PB,João Pessoa,2020-03-31,12.0,0.0
+Brasil,PB,João Pessoa,2020-04-01,15.0,0.0
+Brasil,PB,João Pessoa,2020-04-02,15.0,0.0
+Brasil,PB,João Pessoa,2020-04-03,23.0,0.0
+Brasil,PB,João Pessoa,2020-04-04,24.0,0.0
+Brasil,PB,João Pessoa,2020-04-05,26.0,2.0
+Brasil,PB,João Pessoa,2020-04-06,26.0,2.0
+Brasil,PB,João Pessoa,2020-04-07,27.0,2.0
+Brasil,PB,João Pessoa,2020-04-08,30.0,2.0
+Brasil,PB,João Pessoa,2020-04-09,40.0,4.0
+Brasil,PB,João Pessoa,2020-04-10,58.0,7.0
+Brasil,PB,João Pessoa,2020-04-11,64.0,7.0
+Brasil,PB,João Pessoa,2020-04-12,78.0,8.0
+Brasil,PB,João Pessoa,2020-04-13,86.0,8.0
+Brasil,PB,João Pessoa,2020-04-14,103.0,11.0
+Brasil,PB,João Pessoa,2020-04-15,115.0,14.0
+Brasil,PB,João Pessoa,2020-04-16,124.0,16.0
+Brasil,PB,João Pessoa,2020-04-17,142.0,16.0
+Brasil,PB,João Pessoa,2020-04-18,148.0,17.0
+Brasil,PB,João Pessoa,2020-04-19,163.0,17.0
+Brasil,PB,João Pessoa,2020-04-20,172.0,19.0
+Brasil,PB,João Pessoa,2020-04-21,185.0,20.0
+Brasil,PB,João Pessoa,2020-04-22,205.0,25.0
+Brasil,PB,João Pessoa,2020-04-23,230.0,25.0
+Brasil,PB,João Pessoa,2020-04-24,254.0,28.0
+Brasil,PB,João Pessoa,2020-04-25,286.0,28.0
+Brasil,PB,João Pessoa,2020-04-26,313.0,28.0
+Brasil,PB,João Pessoa,2020-04-27,349.0,28.0
+Brasil,PB,João Pessoa,2020-04-28,410.0,28.0
+Brasil,PB,João Pessoa,2020-04-29,436.0,29.0
+Brasil,PB,João Pessoa,2020-04-30,499.0,32.0
+Brasil,PB,João Pessoa,2020-05-01,563.0,33.0
+Brasil,PB,João Pessoa,2020-05-02,614.0,36.0
+Brasil,PB,João Pessoa,2020-05-03,701.0,37.0
+Brasil,PB,João Pessoa,2020-05-04,711.0,39.0
+Brasil,PB,João Pessoa,2020-05-05,802.0,40.0
+Brasil,PB,João Pessoa,2020-05-06,865.0,44.0
+Brasil,PB,João Pessoa,2020-05-07,907.0,47.0
+Brasil,PB,João Pessoa,2020-05-08,1062.0,52.0
+Brasil,PB,João Pessoa,2020-05-09,1114.0,54.0
+Brasil,PB,João Pessoa,2020-05-10,1179.0,58.0
+Brasil,PB,João Pessoa,2020-05-11,1230.0,59.0
+Brasil,PB,João Pessoa,2020-05-12,1316.0,62.0
+Brasil,PB,João Pessoa,2020-05-13,1368.0,63.0
+Brasil,PB,João Pessoa,2020-05-14,1451.0,64.0
+Brasil,PB,João Pessoa,2020-05-15,1478.0,68.0
+Brasil,PB,João Pessoa,2020-05-16,1540.0,72.0
+Brasil,PB,João Pessoa,2020-05-17,1697.0,75.0
+Brasil,PB,João Pessoa,2020-05-18,1799.0,78.0
+Brasil,PB,João Pessoa,2020-05-19,1889.0,81.0
+Brasil,PB,João Pessoa,2020-05-20,2088.0,83.0
+Brasil,PB,João Pessoa,2020-05-21,2226.0,89.0
+Brasil,PB,João Pessoa,2020-05-22,2226.0,89.0
+Brasil,PB,João Pessoa,2020-05-23,2454.0,91.0
+Brasil,PB,João Pessoa,2020-05-24,2612.0,96.0
+Brasil,PB,João Pessoa,2020-05-25,2687.0,98.0
+Brasil,PB,João Pessoa,2020-05-26,2945.0,100.0
+Brasil,PB,João Pessoa,2020-05-27,3232.0,102.0
+Brasil,PB,João Pessoa,2020-05-28,3472.0,109.0
+Brasil,PB,João Pessoa,2020-05-29,3685.0,114.0
+Brasil,PB,João Pessoa,2020-05-30,3902.0,126.0
+Brasil,PB,João Pessoa,2020-05-31,3959.0,130.0
+Brasil,PB,João Pessoa,2020-06-01,4151.0,131.0
+Brasil,PB,João Pessoa,2020-06-02,4467.0,131.0
+Brasil,PB,João Pessoa,2020-06-03,4820.0,153.0
+Brasil,PB,João Pessoa,2020-06-04,5319.0,157.0
+Brasil,PB,João Pessoa,2020-06-05,5552.0,159.0
+Brasil,PB,João Pessoa,2020-06-06,5918.0,167.0
+Brasil,PB,João Pessoa,2020-06-07,6004.0,170.0
+Brasil,PB,João Pessoa,2020-06-08,6246.0,183.0
+Brasil,PB,João Pessoa,2020-06-09,6583.0,198.0
+Brasil,PB,João Pessoa,2020-06-10,6905.0,199.0
+Brasil,PB,João Pessoa,2020-06-11,7133.0,202.0
+Brasil,PB,João Pessoa,2020-06-12,7394.0,217.0
+Brasil,PB,João Pessoa,2020-06-13,7610.0,221.0
+Brasil,PB,João Pessoa,2020-06-14,7890.0,223.0
+Brasil,PB,João Pessoa,2020-06-15,8041.0,229.0
+Brasil,PB,João Pessoa,2020-06-16,8464.0,234.0
+Brasil,PB,João Pessoa,2020-06-17,8952.0,246.0
+Brasil,PB,João Pessoa,2020-06-18,8984.0,250.0
+Brasil,PB,João Pessoa,2020-06-19,10065.0,250.0
+Brasil,PB,João Pessoa,2020-06-20,10402.0,253.0
+Brasil,PB,João Pessoa,2020-06-21,10466.0,262.0
+Brasil,PB,João Pessoa,2020-06-22,10581.0,268.0
+Brasil,PB,João Pessoa,2020-06-23,10993.0,276.0
+Brasil,PB,João Pessoa,2020-06-24,11130.0,287.0
+Brasil,PB,João Pessoa,2020-06-25,11369.0,288.0
+Brasil,PB,João Pessoa,2020-06-26,12015.0,296.0
+Brasil,PB,João Pessoa,2020-06-27,12449.0,306.0
+Brasil,PB,João Pessoa,2020-06-28,12580.0,311.0
+Brasil,PB,João Pessoa,2020-06-29,12694.0,318.0
+Brasil,PB,João Pessoa,2020-06-30,13298.0,341.0
+Brasil,PB,João Pessoa,2020-07-01,13588.0,345.0
+Brasil,PB,João Pessoa,2020-07-02,13977.0,369.0
+Brasil,PB,João Pessoa,2020-07-03,14208.0,372.0
+Brasil,PB,João Pessoa,2020-07-04,14631.0,374.0
+Brasil,PB,João Pessoa,2020-07-05,14777.0,378.0
+Brasil,PB,João Pessoa,2020-07-06,14849.0,383.0
+Brasil,PB,João Pessoa,2020-07-07,15330.0,386.0
+Brasil,PB,João Pessoa,2020-07-08,15594.0,396.0
+Brasil,PB,João Pessoa,2020-07-09,15817.0,405.0
+Brasil,PB,João Pessoa,2020-07-10,16217.0,427.0
+Brasil,PB,João Pessoa,2020-07-11,16566.0,443.0
+Brasil,PB,João Pessoa,2020-07-12,16635.0,452.0
+Brasil,PB,João Pessoa,2020-07-13,16702.0,458.0
+Brasil,PB,João Pessoa,2020-07-14,16930.0,471.0
+Brasil,PB,João Pessoa,2020-07-15,17223.0,485.0
+Brasil,PB,João Pessoa,2020-07-16,17407.0,497.0
+Brasil,PB,João Pessoa,2020-07-17,17579.0,506.0
+Brasil,PB,João Pessoa,2020-07-18,17667.0,518.0
+Brasil,PB,João Pessoa,2020-07-19,17821.0,518.0
+Brasil,PB,João Pessoa,2020-07-20,17869.0,525.0
+Brasil,PB,João Pessoa,2020-07-21,18002.0,536.0
+Brasil,PB,João Pessoa,2020-07-22,18499.0,545.0
+Brasil,PB,João Pessoa,2020-07-23,19166.0,556.0
+Brasil,PB,João Pessoa,2020-07-24,19659.0,573.0
+Brasil,PB,João Pessoa,2020-07-25,19908.0,583.0
+Brasil,PB,João Pessoa,2020-07-26,20125.0,591.0
+Brasil,PB,João Pessoa,2020-07-27,20245.0,601.0
+Brasil,PE,Recife,2020-03-27,0.0,0.0
+Brasil,PE,Recife,2020-03-28,46.0,4.0
+Brasil,PE,Recife,2020-03-29,50.0,4.0
+Brasil,PE,Recife,2020-03-30,53.0,4.0
+Brasil,PE,Recife,2020-03-31,1.0,4.0
+Brasil,PE,Recife,2020-04-01,64.0,5.0
+Brasil,PE,Recife,2020-04-02,74.0,6.0
+Brasil,PE,Recife,2020-04-03,92.0,6.0
+Brasil,PE,Recife,2020-04-04,119.0,10.0
+Brasil,PE,Recife,2020-04-05,139.0,14.0
+Brasil,PE,Recife,2020-04-06,146.0,16.0
+Brasil,PE,Recife,2020-04-07,221.0,18.0
+Brasil,PE,Recife,2020-04-08,254.0,22.0
+Brasil,PE,Recife,2020-04-09,340.0,27.0
+Brasil,PE,Recife,2020-04-10,413.0,32.0
+Brasil,PE,Recife,2020-04-11,486.0,34.0
+Brasil,PE,Recife,2020-04-12,557.0,37.0
+Brasil,PE,Recife,2020-04-13,672.0,46.0
+Brasil,PE,Recife,2020-04-14,733.0,49.0
+Brasil,PE,Recife,2020-04-15,857.0,62.0
+Brasil,PE,Recife,2020-04-16,958.0,70.0
+Brasil,PE,Recife,2020-04-17,1136.0,85.0
+Brasil,PE,Recife,2020-04-18,1255.0,94.0
+Brasil,PE,Recife,2020-04-19,1399.0,100.0
+Brasil,PE,Recife,2020-04-20,1552.0,106.0
+Brasil,PE,Recife,2020-04-21,1687.0,113.0
+Brasil,PE,Recife,2020-04-22,1904.0,124.0
+Brasil,PE,Recife,2020-04-23,2062.0,136.0
+Brasil,PE,Recife,2020-04-24,2266.0,151.0
+Brasil,PE,Recife,2020-04-25,2534.0,162.0
+Brasil,PE,Recife,2020-04-26,2722.0,182.0
+Brasil,PE,Recife,2020-04-27,2973.0,197.0
+Brasil,PE,Recife,2020-04-28,3158.0,219.0
+Brasil,PE,Recife,2020-04-29,3425.0,238.0
+Brasil,PE,Recife,2020-04-30,3780.0,250.0
+Brasil,PE,Recife,2020-05-01,4020.0,257.0
+Brasil,PE,Recife,2020-05-02,4453.0,267.0
+Brasil,PE,Recife,2020-05-03,4702.0,273.0
+Brasil,PE,Recife,2020-05-04,4807.0,295.0
+Brasil,PE,Recife,2020-05-05,4989.0,320.0
+Brasil,PE,Recife,2020-05-06,5294.0,337.0
+Brasil,PE,Recife,2020-05-07,5775.0,354.0
+Brasil,PE,Recife,2020-05-08,6133.0,380.0
+Brasil,PE,Recife,2020-05-09,6588.0,393.0
+Brasil,PE,Recife,2020-05-10,6984.0,415.0
+Brasil,PE,Recife,2020-05-11,7224.0,425.0
+Brasil,PE,Recife,2020-05-12,7477.0,450.0
+Brasil,PE,Recife,2020-05-13,7757.0,479.0
+Brasil,PE,Recife,2020-05-14,8096.0,507.0
+Brasil,PE,Recife,2020-05-15,8352.0,538.0
+Brasil,PE,Recife,2020-05-16,9413.0,573.0
+Brasil,PE,Recife,2020-05-17,9772.0,596.0
+Brasil,PE,Recife,2020-05-18,10047.0,645.0
+Brasil,PE,Recife,2020-05-19,10561.0,682.0
+Brasil,PE,Recife,2020-05-20,11054.0,715.0
+Brasil,PE,Recife,2020-05-21,11584.0,747.0
+Brasil,PE,Recife,2020-05-22,12523.0,803.0
+Brasil,PE,Recife,2020-05-23,12924.0,835.0
+Brasil,PE,Recife,2020-05-24,13297.0,851.0
+Brasil,PE,Recife,2020-05-25,13549.0,865.0
+Brasil,PE,Recife,2020-05-26,13712.0,902.0
+Brasil,PE,Recife,2020-05-27,14086.0,967.0
+Brasil,PE,Recife,2020-05-28,14365.0,1004.0
+Brasil,PE,Recife,2020-05-29,14832.0,1040.0
+Brasil,PE,Recife,2020-05-30,15165.0,1064.0
+Brasil,PE,Recife,2020-05-31,15474.0,1081.0
+Brasil,PE,Recife,2020-06-01,15565.0,1097.0
+Brasil,PE,Recife,2020-06-02,15749.0,1100.0
+Brasil,PE,Recife,2020-06-03,15977.0,1120.0
+Brasil,PE,Recife,2020-06-04,16250.0,1177.0
+Brasil,PE,Recife,2020-06-05,16520.0,1207.0
+Brasil,PE,Recife,2020-06-06,16695.0,1235.0
+Brasil,PE,Recife,2020-06-07,16909.0,1242.0
+Brasil,PE,Recife,2020-06-08,17037.0,1270.0
+Brasil,PE,Recife,2020-06-09,17133.0,1315.0
+Brasil,PE,Recife,2020-06-10,17377.0,1361.0
+Brasil,PE,Recife,2020-06-11,17685.0,1402.0
+Brasil,PE,Recife,2020-06-12,17866.0,1439.0
+Brasil,PE,Recife,2020-06-13,18102.0,1484.0
+Brasil,PE,Recife,2020-06-14,18253.0,1529.0
+Brasil,PE,Recife,2020-06-15,18333.0,1538.0
+Brasil,PE,Recife,2020-06-16,18520.0,1563.0
+Brasil,PE,Recife,2020-06-17,18762.0,1584.0
+Brasil,PE,Recife,2020-06-18,18991.0,1594.0
+Brasil,PE,Recife,2020-06-19,19192.0,1608.0
+Brasil,PE,Recife,2020-06-20,19391.0,1615.0
+Brasil,PE,Recife,2020-06-21,19613.0,1663.0
+Brasil,PE,Recife,2020-06-22,19682.0,1662.0
+Brasil,PE,Recife,2020-06-23,19724.0,1685.0
+Brasil,PE,Recife,2020-06-24,19975.0,1719.0
+Brasil,PE,Recife,2020-06-25,20165.0,1743.0
+Brasil,PE,Recife,2020-06-26,20275.0,1781.0
+Brasil,PE,Recife,2020-06-27,20441.0,1803.0
+Brasil,PE,Recife,2020-06-28,20578.0,1807.0
+Brasil,PE,Recife,2020-06-29,20656.0,1816.0
+Brasil,PE,Recife,2020-06-30,20729.0,1825.0
+Brasil,PE,Recife,2020-07-01,20895.0,1851.0
+Brasil,PE,Recife,2020-07-02,21103.0,1872.0
+Brasil,PE,Recife,2020-07-03,21255.0,1883.0
+Brasil,PE,Recife,2020-07-04,21400.0,1892.0
+Brasil,PE,Recife,2020-07-05,21683.0,1898.0
+Brasil,PE,Recife,2020-07-06,21739.0,1897.0
+Brasil,PE,Recife,2020-07-07,21839.0,1924.0
+Brasil,PE,Recife,2020-07-08,22092.0,1927.0
+Brasil,PE,Recife,2020-07-09,22297.0,1945.0
+Brasil,PE,Recife,2020-07-10,22513.0,1954.0
+Brasil,PE,Recife,2020-07-11,22749.0,1966.0
+Brasil,PE,Recife,2020-07-12,22991.0,1968.0
+Brasil,PE,Recife,2020-07-13,23076.0,1975.0
+Brasil,PE,Recife,2020-07-14,23194.0,1985.0
+Brasil,PE,Recife,2020-07-15,23433.0,1997.0
+Brasil,PE,Recife,2020-07-16,23612.0,2020.0
+Brasil,PE,Recife,2020-07-17,23839.0,2024.0
+Brasil,PE,Recife,2020-07-18,23969.0,2032.0
+Brasil,PE,Recife,2020-07-19,24157.0,2035.0
+Brasil,PE,Recife,2020-07-20,24308.0,2036.0
+Brasil,PE,Recife,2020-07-21,24367.0,2041.0
+Brasil,PE,Recife,2020-07-22,24512.0,2056.0
+Brasil,PE,Recife,2020-07-23,24865.0,2062.0
+Brasil,PE,Recife,2020-07-24,25141.0,2069.0
+Brasil,PE,Recife,2020-07-25,25429.0,2079.0
+Brasil,PE,Recife,2020-07-26,25742.0,2084.0
+Brasil,PE,Recife,2020-07-27,25857.0,2086.0
+Brasil,AL,Maceió,2020-03-27,0.0,0.0
+Brasil,AL,Maceió,2020-03-28,13.0,0.0
+Brasil,AL,Maceió,2020-03-29,16.0,0.0
+Brasil,AL,Maceió,2020-03-30,12.0,0.0
+Brasil,AL,Maceió,2020-03-31,13.0,1.0
+Brasil,AL,Maceió,2020-04-01,17.0,1.0
+Brasil,AL,Maceió,2020-04-02,13.0,1.0
+Brasil,AL,Maceió,2020-04-03,17.0,2.0
+Brasil,AL,Maceió,2020-04-04,17.0,2.0
+Brasil,AL,Maceió,2020-04-05,20.0,2.0
+Brasil,AL,Maceió,2020-04-06,22.0,2.0
+Brasil,AL,Maceió,2020-04-07,22.0,2.0
+Brasil,AL,Maceió,2020-04-08,27.0,2.0
+Brasil,AL,Maceió,2020-04-09,27.0,2.0
+Brasil,AL,Maceió,2020-04-10,34.0,2.0
+Brasil,AL,Maceió,2020-04-11,37.0,2.0
+Brasil,AL,Maceió,2020-04-12,37.0,2.0
+Brasil,AL,Maceió,2020-04-13,39.0,2.0
+Brasil,AL,Maceió,2020-04-14,58.0,2.0
+Brasil,AL,Maceió,2020-04-15,66.0,3.0
+Brasil,AL,Maceió,2020-04-16,70.0,3.0
+Brasil,AL,Maceió,2020-04-17,90.0,5.0
+Brasil,AL,Maceió,2020-04-18,107.0,6.0
+Brasil,AL,Maceió,2020-04-19,131.0,9.0
+Brasil,AL,Maceió,2020-04-20,140.0,12.0
+Brasil,AL,Maceió,2020-04-21,176.0,13.0
+Brasil,AL,Maceió,2020-04-22,205.0,14.0
+Brasil,AL,Maceió,2020-04-23,280.0,14.0
+Brasil,AL,Maceió,2020-04-24,355.0,18.0
+Brasil,AL,Maceió,2020-04-25,427.0,18.0
+Brasil,AL,Maceió,2020-04-26,472.0,20.0
+Brasil,AL,Maceió,2020-04-27,535.0,22.0
+Brasil,AL,Maceió,2020-04-28,645.0,24.0
+Brasil,AL,Maceió,2020-04-29,791.0,26.0
+Brasil,AL,Maceió,2020-04-30,853.0,32.0
+Brasil,AL,Maceió,2020-05-01,1008.0,38.0
+Brasil,AL,Maceió,2020-05-02,1124.0,41.0
+Brasil,AL,Maceió,2020-05-03,1179.0,43.0
+Brasil,AL,Maceió,2020-05-04,1260.0,46.0
+Brasil,AL,Maceió,2020-05-05,1296.0,50.0
+Brasil,AL,Maceió,2020-05-06,1358.0,56.0
+Brasil,AL,Maceió,2020-05-07,1473.0,61.0
+Brasil,AL,Maceió,2020-05-08,1581.0,71.0
+Brasil,AL,Maceió,2020-05-09,1676.0,73.0
+Brasil,AL,Maceió,2020-05-10,1725.0,78.0
+Brasil,AL,Maceió,2020-05-11,1779.0,85.0
+Brasil,AL,Maceió,2020-05-12,1939.0,93.0
+Brasil,AL,Maceió,2020-05-13,2064.0,104.0
+Brasil,AL,Maceió,2020-05-14,2170.0,112.0
+Brasil,AL,Maceió,2020-05-15,2310.0,119.0
+Brasil,AL,Maceió,2020-05-16,2524.0,131.0
+Brasil,AL,Maceió,2020-05-17,2594.0,135.0
+Brasil,AL,Maceió,2020-05-18,2746.0,144.0
+Brasil,AL,Maceió,2020-05-19,2895.0,150.0
+Brasil,AL,Maceió,2020-05-20,2905.0,162.0
+Brasil,AL,Maceió,2020-05-21,3156.0,169.0
+Brasil,AL,Maceió,2020-05-22,3277.0,184.0
+Brasil,AL,Maceió,2020-05-23,3433.0,193.0
+Brasil,AL,Maceió,2020-05-24,3585.0,199.0
+Brasil,AL,Maceió,2020-05-25,3848.0,213.0
+Brasil,AL,Maceió,2020-05-26,4064.0,223.0
+Brasil,AL,Maceió,2020-05-27,4360.0,230.0
+Brasil,AL,Maceió,2020-05-28,4589.0,237.0
+Brasil,AL,Maceió,2020-05-29,4833.0,248.0
+Brasil,AL,Maceió,2020-05-30,5107.0,262.0
+Brasil,AL,Maceió,2020-05-31,5891.0,275.0
+Brasil,AL,Maceió,2020-06-01,6098.0,288.0
+Brasil,AL,Maceió,2020-06-02,6325.0,301.0
+Brasil,AL,Maceió,2020-06-03,6760.0,317.0
+Brasil,AL,Maceió,2020-06-04,7113.0,335.0
+Brasil,AL,Maceió,2020-06-05,7513.0,354.0
+Brasil,AL,Maceió,2020-06-06,7840.0,369.0
+Brasil,AL,Maceió,2020-06-07,8133.0,377.0
+Brasil,AL,Maceió,2020-06-08,8133.0,377.0
+Brasil,AL,Maceió,2020-06-09,8698.0,406.0
+Brasil,AL,Maceió,2020-06-10,9044.0,419.0
+Brasil,AL,Maceió,2020-06-11,9373.0,426.0
+Brasil,AL,Maceió,2020-06-12,9790.0,432.0
+Brasil,AL,Maceió,2020-06-13,10111.0,443.0
+Brasil,AL,Maceió,2020-06-14,10615.0,454.0
+Brasil,AL,Maceió,2020-06-15,10984.0,467.0
+Brasil,AL,Maceió,2020-06-16,11294.0,483.0
+Brasil,AL,Maceió,2020-06-17,11613.0,490.0
+Brasil,AL,Maceió,2020-06-18,11728.0,500.0
+Brasil,AL,Maceió,2020-06-19,12074.0,509.0
+Brasil,AL,Maceió,2020-06-20,12213.0,522.0
+Brasil,AL,Maceió,2020-06-21,12637.0,534.0
+Brasil,AL,Maceió,2020-06-22,12978.0,547.0
+Brasil,AL,Maceió,2020-06-23,13371.0,547.0
+Brasil,AL,Maceió,2020-06-24,13906.0,556.0
+Brasil,AL,Maceió,2020-06-25,14101.0,563.0
+Brasil,AL,Maceió,2020-06-26,14236.0,569.0
+Brasil,AL,Maceió,2020-06-27,14472.0,578.0
+Brasil,AL,Maceió,2020-06-28,14830.0,587.0
+Brasil,AL,Maceió,2020-06-29,15038.0,594.0
+Brasil,AL,Maceió,2020-06-30,15404.0,600.0
+Brasil,AL,Maceió,2020-07-01,15703.0,607.0
+Brasil,AL,Maceió,2020-07-02,15833.0,611.0
+Brasil,AL,Maceió,2020-07-03,15991.0,616.0
+Brasil,AL,Maceió,2020-07-04,16190.0,620.0
+Brasil,AL,Maceió,2020-07-05,16501.0,625.0
+Brasil,AL,Maceió,2020-07-06,16755.0,627.0
+Brasil,AL,Maceió,2020-07-07,17135.0,631.0
+Brasil,AL,Maceió,2020-07-08,17460.0,634.0
+Brasil,AL,Maceió,2020-07-09,17529.0,636.0
+Brasil,AL,Maceió,2020-07-10,17712.0,639.0
+Brasil,AL,Maceió,2020-07-11,17947.0,644.0
+Brasil,AL,Maceió,2020-07-12,18231.0,646.0
+Brasil,AL,Maceió,2020-07-13,18774.0,648.0
+Brasil,AL,Maceió,2020-07-14,19081.0,651.0
+Brasil,AL,Maceió,2020-07-15,19287.0,655.0
+Brasil,AL,Maceió,2020-07-16,19382.0,660.0
+Brasil,AL,Maceió,2020-07-17,19533.0,663.0
+Brasil,AL,Maceió,2020-07-18,19715.0,667.0
+Brasil,AL,Maceió,2020-07-19,19909.0,671.0
+Brasil,AL,Maceió,2020-07-20,20054.0,675.0
+Brasil,AL,Maceió,2020-07-21,20165.0,678.0
+Brasil,AL,Maceió,2020-07-22,20246.0,686.0
+Brasil,AL,Maceió,2020-07-23,20545.0,690.0
+Brasil,AL,Maceió,2020-07-24,20883.0,695.0
+Brasil,AL,Maceió,2020-07-25,21127.0,699.0
+Brasil,AL,Maceió,2020-07-26,21294.0,702.0
+Brasil,AL,Maceió,2020-07-27,21357.0,705.0
+Brasil,SE,Aracaju,2020-03-27,0.0,0.0
+Brasil,SE,Aracaju,2020-03-28,13.0,0.0
+Brasil,SE,Aracaju,2020-03-29,13.0,0.0
+Brasil,SE,Aracaju,2020-03-30,13.0,0.0
+Brasil,SE,Aracaju,2020-03-31,16.0,0.0
+Brasil,SE,Aracaju,2020-04-01,17.0,0.0
+Brasil,SE,Aracaju,2020-04-02,20.0,2.0
+Brasil,SE,Aracaju,2020-04-03,21.0,2.0
+Brasil,SE,Aracaju,2020-04-04,23.0,2.0
+Brasil,SE,Aracaju,2020-04-05,27.0,3.0
+Brasil,SE,Aracaju,2020-04-06,27.0,4.0
+Brasil,SE,Aracaju,2020-04-07,30.0,4.0
+Brasil,SE,Aracaju,2020-04-08,30.0,4.0
+Brasil,SE,Aracaju,2020-04-09,32.0,4.0
+Brasil,SE,Aracaju,2020-04-10,33.0,4.0
+Brasil,SE,Aracaju,2020-04-11,33.0,4.0
+Brasil,SE,Aracaju,2020-04-12,35.0,4.0
+Brasil,SE,Aracaju,2020-04-13,35.0,4.0
+Brasil,SE,Aracaju,2020-04-14,36.0,4.0
+Brasil,SE,Aracaju,2020-04-15,37.0,4.0
+Brasil,SE,Aracaju,2020-04-16,37.0,4.0
+Brasil,SE,Aracaju,2020-04-17,40.0,4.0
+Brasil,SE,Aracaju,2020-04-18,52.0,4.0
+Brasil,SE,Aracaju,2020-04-19,56.0,4.0
+Brasil,SE,Aracaju,2020-04-20,59.0,4.0
+Brasil,SE,Aracaju,2020-04-21,60.0,4.0
+Brasil,SE,Aracaju,2020-04-22,74.0,5.0
+Brasil,SE,Aracaju,2020-04-23,76.0,5.0
+Brasil,SE,Aracaju,2020-04-24,94.0,5.0
+Brasil,SE,Aracaju,2020-04-25,98.0,6.0
+Brasil,SE,Aracaju,2020-04-26,100.0,6.0
+Brasil,SE,Aracaju,2020-04-27,128.0,6.0
+Brasil,SE,Aracaju,2020-04-28,189.0,7.0
+Brasil,SE,Aracaju,2020-04-29,220.0,7.0
+Brasil,SE,Aracaju,2020-04-30,297.0,7.0
+Brasil,SE,Aracaju,2020-05-01,339.0,7.0
+Brasil,SE,Aracaju,2020-05-02,386.0,7.0
+Brasil,SE,Aracaju,2020-05-03,467.0,7.0
+Brasil,SE,Aracaju,2020-05-04,503.0,8.0
+Brasil,SE,Aracaju,2020-05-05,599.0,8.0
+Brasil,SE,Aracaju,2020-05-06,670.0,10.0
+Brasil,SE,Aracaju,2020-05-07,832.0,10.0
+Brasil,SE,Aracaju,2020-05-08,1010.0,11.0
+Brasil,SE,Aracaju,2020-05-09,1112.0,13.0
+Brasil,SE,Aracaju,2020-05-10,1237.0,13.0
+Brasil,SE,Aracaju,2020-05-11,1252.0,13.0
+Brasil,SE,Aracaju,2020-05-12,1413.0,13.0
+Brasil,SE,Aracaju,2020-05-13,1564.0,15.0
+Brasil,SE,Aracaju,2020-05-14,1718.0,18.0
+Brasil,SE,Aracaju,2020-05-15,1862.0,19.0
+Brasil,SE,Aracaju,2020-05-16,2032.0,20.0
+Brasil,SE,Aracaju,2020-05-17,2108.0,23.0
+Brasil,SE,Aracaju,2020-05-18,2245.0,24.0
+Brasil,SE,Aracaju,2020-05-19,2473.0,27.0
+Brasil,SE,Aracaju,2020-05-20,2662.0,29.0
+Brasil,SE,Aracaju,2020-05-21,2843.0,33.0
+Brasil,SE,Aracaju,2020-05-22,2940.0,38.0
+Brasil,SE,Aracaju,2020-05-23,3066.0,41.0
+Brasil,SE,Aracaju,2020-05-24,3166.0,44.0
+Brasil,SE,Aracaju,2020-05-25,3239.0,48.0
+Brasil,SE,Aracaju,2020-05-26,3406.0,54.0
+Brasil,SE,Aracaju,2020-05-27,3492.0,57.0
+Brasil,SE,Aracaju,2020-05-28,3623.0,59.0
+Brasil,SE,Aracaju,2020-05-29,3784.0,65.0
+Brasil,SE,Aracaju,2020-05-30,3944.0,68.0
+Brasil,SE,Aracaju,2020-05-31,4061.0,71.0
+Brasil,SE,Aracaju,2020-06-01,4190.0,75.0
+Brasil,SE,Aracaju,2020-06-02,4400.0,79.0
+Brasil,SE,Aracaju,2020-06-03,4582.0,83.0
+Brasil,SE,Aracaju,2020-06-04,4691.0,85.0
+Brasil,SE,Aracaju,2020-06-05,4940.0,90.0
+Brasil,SE,Aracaju,2020-06-06,5123.0,94.0
+Brasil,SE,Aracaju,2020-06-07,5296.0,98.0
+Brasil,SE,Aracaju,2020-06-08,5572.0,107.0
+Brasil,SE,Aracaju,2020-06-09,5815.0,113.0
+Brasil,SE,Aracaju,2020-06-10,6079.0,119.0
+Brasil,SE,Aracaju,2020-06-11,6322.0,128.0
+Brasil,SE,Aracaju,2020-06-12,6693.0,134.0
+Brasil,SE,Aracaju,2020-06-13,7481.0,142.0
+Brasil,SE,Aracaju,2020-06-14,8193.0,149.0
+Brasil,SE,Aracaju,2020-06-15,9387.0,154.0
+Brasil,SE,Aracaju,2020-06-16,9849.0,160.0
+Brasil,SE,Aracaju,2020-06-17,10094.0,165.0
+Brasil,SE,Aracaju,2020-06-18,10423.0,173.0
+Brasil,SE,Aracaju,2020-06-19,10699.0,181.0
+Brasil,SE,Aracaju,2020-06-20,10992.0,195.0
+Brasil,SE,Aracaju,2020-06-21,11270.0,201.0
+Brasil,SE,Aracaju,2020-06-22,11476.0,211.0
+Brasil,SE,Aracaju,2020-06-23,11782.0,216.0
+Brasil,SE,Aracaju,2020-06-24,11962.0,223.0
+Brasil,SE,Aracaju,2020-06-25,12362.0,236.0
+Brasil,SE,Aracaju,2020-06-26,12849.0,247.0
+Brasil,SE,Aracaju,2020-06-27,13615.0,256.0
+Brasil,SE,Aracaju,2020-06-28,14251.0,261.0
+Brasil,SE,Aracaju,2020-06-29,14486.0,272.0
+Brasil,SE,Aracaju,2020-06-30,14814.0,286.0
+Brasil,SE,Aracaju,2020-07-01,15117.0,301.0
+Brasil,SE,Aracaju,2020-07-02,15381.0,315.0
+Brasil,SE,Aracaju,2020-07-03,16035.0,327.0
+Brasil,SE,Aracaju,2020-07-04,16855.0,336.0
+Brasil,SE,Aracaju,2020-07-05,17099.0,342.0
+Brasil,SE,Aracaju,2020-07-06,17396.0,356.0
+Brasil,SE,Aracaju,2020-07-07,17709.0,364.0
+Brasil,SE,Aracaju,2020-07-08,18039.0,373.0
+Brasil,SE,Aracaju,2020-07-09,18369.0,380.0
+Brasil,SE,Aracaju,2020-07-10,18890.0,390.0
+Brasil,SE,Aracaju,2020-07-11,19638.0,398.0
+Brasil,SE,Aracaju,2020-07-12,20560.0,410.0
+Brasil,SE,Aracaju,2020-07-13,20884.0,421.0
+Brasil,SE,Aracaju,2020-07-14,21207.0,429.0
+Brasil,SE,Aracaju,2020-07-15,21549.0,433.0
+Brasil,SE,Aracaju,2020-07-16,21916.0,437.0
+Brasil,SE,Aracaju,2020-07-17,22149.0,443.0
+Brasil,SE,Aracaju,2020-07-18,22715.0,449.0
+Brasil,SE,Aracaju,2020-07-19,24000.0,454.0
+Brasil,SE,Aracaju,2020-07-20,24352.0,465.0
+Brasil,SE,Aracaju,2020-07-21,24741.0,477.0
+Brasil,SE,Aracaju,2020-07-22,25091.0,485.0
+Brasil,SE,Aracaju,2020-07-23,25489.0,500.0
+Brasil,SE,Aracaju,2020-07-24,26175.0,503.0
+Brasil,SE,Aracaju,2020-07-25,26571.0,507.0
+Brasil,SE,Aracaju,2020-07-26,26819.0,510.0
+Brasil,SE,Aracaju,2020-07-27,27190.0,522.0
