@@ -1,6 +1,3 @@
-#Limpa dados anteriores
-rm *.csv
-rm *.png
 # Para rodar o DELPHI automaticamente
 echo "get_ms_scriptGH.py"
 /home/boselli/Marco/prog/epidemia/delphi_br/get_ms_scriptGH.py

@@ -1,6 +1,6 @@
+get_ms_scriptGH.py
+ms_to_delphiGH.py
+/home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_MG_Uberlândia.csv
+DELPHI_model
 Rodou o DELPHI
-DELPHI Update 07-23-2020 16:27:01
-[master 07b8875] update 07-23-2020 16:27:01
- 1 file changed, 1 insertion(+), 8 deletions(-)
-To github:maboselli/DELPHI_figs.git
-   cbd385d..07b8875  master -> master
+DELPHI Update 07-28-2020 17:01:09
