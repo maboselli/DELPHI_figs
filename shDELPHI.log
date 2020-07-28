@@ -2,42 +2,16 @@ get_ms_scriptGH.py
 ms_to_delphiGH.py
 /home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_MG_Uberlândia.csv
 DELPHI_model
+/home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_RO_Estado.csv
+4314826490.142181
+[ 2.         -5.40740834  1.          0.5         0.02489585  0.1
+  0.1       ]
+=======
+/home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_AC_Estado.csv
+5097744397.380532
+[ 1.8763309  -9.99999995  1.00000001  0.49999999  0.02718893  0.76303425
+  0.1       ]
+=======
+/home/boselli/Marco/prog/epidemia/delphi_br/data/processed/Cases_Brasil_AM_Estado.csv
 Rodou o DELPHI
-DELPHI Update 07-28-2020 17:01:09
-[master 5f1b51d] update 07-28-2020 17:01:09
- 37 files changed, 33 insertions(+), 2058 deletions(-)
- delete mode 100644 Brasil_AC_Estado.csv
- delete mode 100644 Brasil_AL_Estado.csv
- delete mode 100644 Brasil_AM_Estado.csv
- delete mode 100644 Brasil_AP_Estado.csv
- delete mode 100644 Brasil_BA_Salvador.csv
- delete mode 100644 Brasil_CE_Estado.csv
- delete mode 100644 Brasil_CE_Fortaleza.csv
- delete mode 100644 "Brasil_MA_S\303\243o_Lu\303\255s.csv"
- delete mode 100644 Brasil_PA_Estado.csv
- delete mode 100644 Brasil_PB_Estado.csv
- delete mode 100644 Brasil_PE_Estado.csv
- delete mode 100644 Brasil_PI_Estado.csv
- delete mode 100644 Brasil_RJ_Estado.csv
- delete mode 100644 Brasil_RO_Estado.csv
- delete mode 100644 Brasil_SE_Estado.csv
- delete mode 100644 Brasil_TO_Estado.csv
- delete mode 100644 Fig_Brasil_AC_Estado.png
- delete mode 100644 Fig_Brasil_AL_Estado.png
- delete mode 100644 Fig_Brasil_AM_Estado.png
- delete mode 100644 Fig_Brasil_AP_Estado.png
- delete mode 100644 Fig_Brasil_BA_Salvador.png
- delete mode 100644 Fig_Brasil_CE_Estado.png
- delete mode 100644 Fig_Brasil_CE_Fortaleza.png
- delete mode 100644 "Fig_Brasil_MA_S\303\243o_Lu\303\255s.png"
- delete mode 100644 Fig_Brasil_PA_Estado.png
- delete mode 100644 Fig_Brasil_PB_Estado.png
- delete mode 100644 Fig_Brasil_PE_Estado.png
- delete mode 100644 Fig_Brasil_PI_Estado.png
- delete mode 100644 Fig_Brasil_RJ_Estado.png
- delete mode 100644 Fig_Brasil_RO_Estado.png
- delete mode 100644 Fig_Brasil_SE_Estado.png
- delete mode 100644 Fig_Brasil_TO_Estado.png
- delete mode 100644 Parameters_Global.csv
- create mode 100644 readme.txt
- create mode 100755 script_cmd~
+DELPHI Update 07-28-2020 17:07:19
