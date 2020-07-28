@@ -3,7 +3,7 @@ rm *.csv
 rm *.png
 # Para rodar o DELPHI automaticamente
 echo "get_ms_scriptGH.py"
-/home/boselli/Marco/prog/epidemia/delphi_br/get_ms_scriptGH.py
+#/home/boselli/Marco/prog/epidemia/delphi_br/get_ms_scriptGH.py
 echo "ms_to_delphiGH.py"
 /home/boselli/Marco/prog/epidemia/delphi_br/ms_to_delphiGH.py
 echo "DELPHI_model"
