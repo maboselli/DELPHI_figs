@@ -7,7 +7,7 @@ echo "get_ms_scriptGH.py"
 echo "ms_to_delphiGH.py"
 /home/boselli/Marco/prog/epidemia/delphi_br/ms_to_delphiGH.py
 echo "DELPHI_model"
-/home/boselli/Marco/prog/epidemia/delphi_br/DELPHI_model_bare_025_gh.py
+/home/boselli/Marco/prog/epidemia/delphi_br/DELPHI_model_bare_026_gh.py
 #
 echo 'Rodou o DELPHI'
 #
